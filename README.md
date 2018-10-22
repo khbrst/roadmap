@@ -155,6 +155,23 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Web Sockets
 - [ ] GraphQL, Graph Databases practice
 
+### Python
+
+- [ ] Basics
+- [ ] Package Manager
+- [ ] Standards and Best Practices
+- [ ] Testing framework
+- [ ] RDBMS pratice
+- [ ] Backend framework
+- [ ] NoSQL practice
+- [ ] Caching practice
+- [ ] Creating RESTful APIs
+- [ ] Authentication / Authorization practice
+- [ ] Message Brokers practice
+- [ ] Search Engine practice
+- [ ] Web Sockets
+- [ ] GraphQL, Graph Databases practice
+
 ### Rust
 
 - [x] Basics: [refer Rust Practice](https://github.com/khbrst/rust_practice)
