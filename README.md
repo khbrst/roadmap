@@ -74,6 +74,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [x] ⚙️ Pick a Language
 - [x] ⚙️ Package Manager
 - [x] ⚙️ Standards and Best Practices
+  - [ ] [OWASP](https://www.owasp.org/index.php/Main_Page)
 - [x] ⚙️ Testing framework
 - [ ] RDBMS
   - [ ] [MySQL](https://www.mysql.com/)
