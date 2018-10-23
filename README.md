@@ -234,7 +234,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 - [ ] CI
   - [ ] [Awsome CI](https://github.com/ligurio/awesome-ci)
-	- [ ] [Travis CI](https://travis-ci.com/)
+  - [ ] [Travis CI](https://travis-ci.com/)
 
 # References
 
