@@ -18,7 +18,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [HTML - Wikipedia](https://en.wikipedia.org/wiki/HTML)([번역](https://ko.wikipedia.org/wiki/HTML))
   - [ ] [HTML - 나무위키](https://namu.wiki/w/HTML)([HTML5](https://namu.wiki/w/HTML5))
   - [x] [HTML 수업 - 생활코딩](https://opentutorials.org/course/2039)
-  - [ ] [HTML: HyperText Markup Language - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)([번역](https://developer.mozilla.org/ko/docs/Web/HTML))
+  - [ ] [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)([번역](https://developer.mozilla.org/ko/docs/Web/HTML))
+    - [ ] [Learning HTML: Guides and tutorials - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML))
   - [ ] [Dive Into HTML5](http://www.diveintohtml5.net)
   - [ ] [HTML5 Specification TR - W3C](https://www.w3.org/TR/html5/)
   - [ ] Semantic Web
@@ -27,8 +28,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Semantic Web - W3C](https://www.w3.org/standards/semanticweb/)
 - [ ] CSS
   - [ ] [CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)([번역](https://developer.mozilla.org/ko/docs/Web/CSS))
-  - [ ] Learn Grid Flexbox
-  - [ ] Media Queries, Responsive Websites
+  - [ ] Learn Grid and Flexbox
+  - [ ] Media Queries and Responsive Websites
   - [ ] CSS Preprocessors
     - [ ] [Sass](https://sass-lang.com/)
     - [ ] [Postcss](https://postcss.org/)
@@ -93,12 +94,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [PostgreSQL](https://www.postgresql.org/)
 - [x] ⚙️ Backend framework
 - [ ] NoSQL
-	- [x] [NoSQL - 나무위키](https://namu.wiki/w/NoSQL)
+  - [x] [NoSQL - 나무위키](https://namu.wiki/w/NoSQL)
   - [ ] [MongoDB](https://www.mongodb.com/)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
 - [ ] Caching
-	- [ ] [memcached](https://memcached.org/)
-	- [ ] [Redis](https://redis.io/)
+  - [ ] [memcached](https://memcached.org/)
+  - [ ] [Redis](https://redis.io/)
 - [ ] Authentication / Authorization
   - [ ] OAuth
   - [ ] Basic Authentication
@@ -106,18 +107,18 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] JWT
   - [ ] OpenID
 - [ ] Message Brokers
-	- [ ] RabbitMQ
-	- [ ] Kafka
+  - [ ] RabbitMQ
+  - [ ] Kafka
 - [ ] Search Engine
-	- [ ] ElasticSearch
-	- [ ] Solr
-	- [ ] Sphinx
+  - [ ] ElasticSearch
+  - [ ] Solr
+  - [ ] Sphinx
 - [ ] Docker
 - [ ] Web Server
-	- [ ] Apache
-	- [ ] Nginx
+  - [ ] Apache
+  - [ ] Nginx
 - [x] ⚙️ Web Sockets
-- [ ] GraphQL, Graph Databases
+- [ ] GraphQL and Graph Databases
 - [ ] Profiling
 - [ ] Static Analysis
 - [ ] DDD
@@ -161,7 +162,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Message Brokers practice
 - [ ] Search Engine practice
 - [ ] Web Sockets
-- [ ] GraphQL, Graph Databases practice
+- [ ] GraphQL and Graph Databases practice
 
 ### Java
 
@@ -185,7 +186,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Message Brokers practice
 - [ ] Search Engine practice
 - [ ] Web Sockets
-- [ ] GraphQL, Graph Databases practice
+- [ ] GraphQL and Graph Databases practice
 
 ### Python
 
@@ -202,8 +203,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Testing framework
 - [ ] RDBMS pratice
 - [ ] Backend framework
-	- [ ] [Django](https://www.djangoproject.com/)
-	- [ ] [Flask](http://flask.pocoo.org/)
+  - [ ] [Django](https://www.djangoproject.com/)
+  - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] NoSQL practice
 - [ ] Caching practice
 - [ ] Creating RESTful APIs
@@ -211,7 +212,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Message Brokers practice
 - [ ] Search Engine practice
 - [ ] Web Sockets
-- [ ] GraphQL, Graph Databases practice
+- [ ] GraphQL and Graph Databases practice
 
 ### Rust
 
@@ -228,15 +229,15 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Message Brokers practice
 - [ ] Search Engine practice
 - [ ] Web Sockets
-- [ ] GraphQL, Graph Databases practice
+- [ ] GraphQL and Graph Databases practice
 
 ### DevOps
 
-- [ ] CI
+- [ ] CI and CD
   - [ ] [Awsome CI](https://github.com/ligurio/awesome-ci)
   - [ ] [Travis CI](https://travis-ci.com/)
 
-# References
+## References
 
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
 - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
