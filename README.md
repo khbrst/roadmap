@@ -23,7 +23,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
       - [x] [Introduction to HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML))
       - [ ] [Multimedia and embedding - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
       - [ ] [HTML forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML/Forms))
-      - [ ] [Learn HTML to solve problems - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)j
+      - [ ] [Learn HTML to solve problems - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
     - [ ] [HTML reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/HTML/Reference))
   - [ ] [Dive Into HTML5](http://www.diveintohtml5.net)
   - [ ] Semantic Web
