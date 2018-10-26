@@ -33,7 +33,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [HTML5 Specification TR - W3C](https://www.w3.org/TR/html5/)
 - [ ] CSS
   - [ ] [CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)([번역](https://developer.mozilla.org/ko/docs/Web/CSS))
-    - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+    - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)([번역](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS))
     - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/CSS/Reference))
     - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/CSS/Reference))
   - [ ] Responsive Websites
@@ -251,3 +251,4 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
 - [Markup Validation Service - W3C](https://validator.w3.org)
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
