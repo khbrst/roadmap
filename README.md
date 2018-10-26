@@ -15,16 +15,14 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 ## Frontend
 
 - [ ] HTML
-  - [ ] [HTML - Wikipedia](https://en.wikipedia.org/wiki/HTML)([번역](https://ko.wikipedia.org/wiki/HTML))
-  - [ ] [HTML - 나무위키](https://namu.wiki/w/HTML)([HTML5](https://namu.wiki/w/HTML5))
   - [x] [HTML 수업 - 생활코딩](https://opentutorials.org/course/2039)
-  - [ ] [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)([번역](https://developer.mozilla.org/ko/docs/Web/HTML))
-    - [ ] [Learning HTML: Guides and tutorials - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML))
-      - [x] [Introduction to HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML))
+  - [ ] [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - [ ] [Learning HTML: Guides and tutorials - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+      - [x] [Introduction to HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
       - [ ] [Multimedia and embedding - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
-      - [ ] [HTML forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)([번역](https://developer.mozilla.org/ko/docs/Learn/HTML/Forms))
+      - [ ] [HTML forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
       - [ ] [Learn HTML to solve problems - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
-    - [ ] [HTML reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/HTML/Reference))
+    - [ ] [HTML reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
   - [ ] [Dive Into HTML5](http://www.diveintohtml5.net)
   - [ ] Semantic Web
     - [ ] [Semantic Web - Wikipedia](https://en.wikipedia.org/wiki/Semantic_Web)([번역](https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%A8%ED%8B%B1_%EC%9B%B9))
@@ -32,10 +30,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Semantic Web - W3C](https://www.w3.org/standards/semanticweb/)
   - [ ] [HTML5 Specification TR - W3C](https://www.w3.org/TR/html5/)
 - [ ] CSS
-  - [ ] [CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)([번역](https://developer.mozilla.org/ko/docs/Web/CSS))
-    - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)([번역](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS))
-    - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/CSS/Reference))
-    - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)([번역](https://developer.mozilla.org/ko/docs/Web/CSS/Reference))
+  - [ ] [CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+    - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+    - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [ ] Responsive Websites
   - [ ] [CSS Specs - W3C](https://www.w3.org/Style/CSS/#specs)
   - [ ] CSS Preprocessors
@@ -82,7 +80,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] SVG
 - [ ] sourcemaps
 - [ ] Functional programmings
-  - [ ] [Functional programming - Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)([번역](https://ko.wikipedia.org/wiki/%ED%95%A8%EC%88%98%ED%98%95_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D))
   - [x] [(번역) 함수형 프로그래밍이란 무엇인가? - Jooyung Han (한주영) - Medium](https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263)
 - [ ] TC39
 
@@ -102,7 +99,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [PostgreSQL](https://www.postgresql.org/)
 - [x] ⚙️ Backend framework
 - [ ] NoSQL
-  - [x] [NoSQL - 나무위키](https://namu.wiki/w/NoSQL)
   - [ ] [MongoDB](https://www.mongodb.com/)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
 - [ ] Caching
@@ -133,7 +129,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] SOAP
 - [ ] serverless
 - [ ] Micro Services
-  - [ ] [Microservices](https://en.wikipedia.org/wiki/Microservices)([번역](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4))
   - [ ] [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
   - [ ] Circuit Breaker
@@ -141,7 +136,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Circuit Breaker - Microservices.io](https://microservices.io/patterns/reliability/circuit-breaker.html)
     - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] API Gateway
-    - [ ] [Netflix/Zuul - GitHub](https://github.com/Netflix/zuul)([Wiki](https://github.com/Netflix/zuul/wiki))
+    - [ ] Netflix/Zuul
+      - [ ] [GitHub Wiki](https://github.com/Netflix/zuul/wiki)
       - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
     - [ ] API Gateway vs Reverse Proxy
 
@@ -152,7 +148,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [x] [npm](https://www.npmjs.com/): [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
   - [ ] [Yarn](https://yarnpkg.com/lang/en/)
 - [ ] Standards and Best Practices
-  - [ ] [OWASP](https://en.wikipedia.org/wiki/OWASP)([번역](https://ko.wikipedia.org/wiki/OWASP))
   - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
   - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
   - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
