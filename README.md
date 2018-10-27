@@ -95,7 +95,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] ⚙️ Pick a Language
   - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
   - [ ] Java
-  - [ ] [Rust](https://github.com/khbrst/rust_practice)
+  - [x] [Rust](https://github.com/khbrst/rust_practice)
   - [ ] Python
 - [x] ⚙️ Package Manager
 - [x] ⚙️ Standards and Best Practices
