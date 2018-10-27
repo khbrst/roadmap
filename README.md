@@ -46,13 +46,11 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Bootstrap](https://getbootstrap.com/)
   - [ ] CSS architecture
     - [ ] BEM
-- [x] JavaScript: [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
-- [x] TypeScript: [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
-- [ ] Package Manager
-  - [x] [npm](https://www.npmjs.com/): [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
-  - [ ] [Yarn](https://yarnpkg.com/lang/en/)
+- [x] JavaScript: [Practiced here](https://github.com/khbrst/ecmascript_practice)
+- [x] TypeScript: [Practiced here](https://github.com/khbrst/ecmascript_practice)
+- [x] Package Manager: [Practiced here](https://github.com/khbrst/ecmascript_practice)
 - [ ] Build tool
-  - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
+  - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/ecmascript_practice)
   - [ ] [gulp.js](https://gulpjs.com/)
   - [ ] [ESLint](https://eslint.org/)
   - [ ] [webpack](https://webpack.js.org/)
@@ -65,10 +63,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [Angular](https://angular.io/)
     - [ ] [RxJS](https://rxjs-dev.firebaseapp.com/)
     - [ ] [ngrx](https://ngrx.github.io/)
-- [ ] Testing framework
-  - [ ] [Mocha](https://mochajs.org/)
+- [ ] Testing framework: [I will practice here](https://github.com/khbrst/ecmascript_practice)
 - [ ] Progressive WebApps
-  - [x] Service Workers: [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
+  - [x] Service Workers: [Practiced here](https://github.com/khbrst/ecmascript_practice)
   - [ ] How to make progressive web apps
 - [ ] Server Side Rendering
   - [ ] [React](https://reactjs.org/)
@@ -92,7 +89,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ⚙️ is Language specific item.
 
-- [x] ⚙️ Pick a Language
+- [ ] ⚙️ Pick a Language
+  - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
 - [x] ⚙️ Package Manager
 - [ ] Standards and Best Practices
 - [x] ⚙️ Testing framework
@@ -143,32 +141,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
       - [ ] [GitHub Wiki](https://github.com/Netflix/zuul/wiki)
       - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
     - [ ] API Gateway vs Reverse Proxy
-
-### Node.js
-
-- [x] Basics: [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
-- [ ] Package Manager
-  - [x] [npm](https://www.npmjs.com/): [refer ECMAScript Practice](https://github.com/khbrst/ecmascript_practice)
-  - [ ] [Yarn](https://yarnpkg.com/lang/en/)
-- [ ] Standards and Best Practices
-  - [ ] [OWASP: Open Web Application Security Project](https://www.owasp.org/index.php/Main_Page)
-  - [ ] [JavaScript Standard Style](https://standardjs.com/)([번역](https://standardjs.com/readme-kokr.html)): [GitHub](https://github.com/standard/standard)([번역](https://github.com/standard/standard/blob/master/docs/README-kokr.md))
-  - [ ] [Node.js Best Practices](https://github.com/i0natan/nodebestpractices)([번역](https://github.com/i0natan/nodebestpractices/blob/master/README.korean.md))
-  - [x] [Do's and Don'ts - TypeScript](https://www.typescriptlang.org/docs/handbook/declaration-files/do-s-and-don-ts.html)
-  - [ ] [StyleGuide - TypeScript Deep Dive GitBook](https://basarat.gitbooks.io/typescript/docs/styleguide/styleguide.html)
-- [ ] Testing framework
-  - [ ] [Mocha](https://mochajs.org/)
-- [ ] RDBMS pratice
-- [ ] Backend framework
-  - [ ] [Express](https://expressjs.com/)
-- [ ] NoSQL practice
-- [ ] Caching practice
-- [ ] Creating RESTful APIs
-- [ ] Authentication / Authorization practice
-- [ ] Message Brokers practice
-- [ ] Search Engine practice
-- [ ] Web Sockets
-- [ ] GraphQL and Graph Databases practice
 
 ### Java
 
@@ -222,8 +194,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ### Rust
 
-- [x] Basics: [refer Rust Practice](https://github.com/khbrst/rust_practice)
-- [x] Package Manager: [refer Rust Practice](https://github.com/khbrst/rust_practice)
+- [x] Basics: [Practiced here](https://github.com/khbrst/rust_practice)
+- [x] Package Manager: [Practiced here](https://github.com/khbrst/rust_practice)
 - [ ] Standards and Best Practices
 - [ ] Testing framework
 - [ ] RDBMS pratice
