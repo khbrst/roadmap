@@ -85,14 +85,17 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ## Backend
 
-### Blueprint
+### Template
 
 ⚙️ is Language specific item.
 
 - [ ] ⚙️ Pick a Language
   - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
+  - [ ] Java
+  - [ ] Rust
+  - [ ] Python
 - [x] ⚙️ Package Manager
-- [ ] Standards and Best Practices
+- [x] ⚙️ Standards and Best Practices
 - [x] ⚙️ Testing framework
 - [ ] RDBMS
   - [ ] [MySQL](https://www.mysql.com/)
