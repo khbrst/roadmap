@@ -36,7 +36,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
     - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
   - [ ] Responsive Websites
-    - [ ] [PWA: Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+    - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+    - [ ] [Responsive Web Design | Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+    - [ ] [Progressive Web Apps Training | Google Developers](https://developers.google.com/web/ilt/pwa/)
   - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [ ] [CSS Specs - W3C](https://www.w3.org/Style/CSS/#specs)
   - [ ] CSS Preprocessors
@@ -221,7 +223,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 ## References
 
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
-- [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
+- [Web | Google Developers](https://developers.google.com/web/)
+- [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - [Markup Validation Service - W3C](https://validator.w3.org)
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
