@@ -30,7 +30,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Semantic Web - W3C](https://www.w3.org/standards/semanticweb/)
 - [ ] CSS
   - [ ] Basics
-    - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+    - [x] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
     - [ ] [Styling text - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
     - [ ] [Styling boxes - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
     - [ ] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
