@@ -55,6 +55,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/ecmascript_practice)
   - [ ] [gulp.js](https://gulpjs.com/)
   - [ ] [ESLint](https://eslint.org/)
+  - [ ] [CSS Lint](http://csslint.net/)
   - [ ] [webpack](https://webpack.js.org/)
 - [ ] Frontend framework
   - [ ] [React](https://reactjs.org/)
