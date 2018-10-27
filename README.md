@@ -94,7 +94,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 - [ ] ⚙️ Pick a Language
   - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
-  - [ ] Java
+  - [x] [Java](https://github.com/khbrst/java_practice)
   - [x] [Rust](https://github.com/khbrst/rust_practice)
   - [ ] Python
 - [x] ⚙️ Package Manager
@@ -143,34 +143,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Circuit Breaker - Microservices.io](https://microservices.io/patterns/reliability/circuit-breaker.html)
     - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] API Gateway
-    - [ ] Netflix/Zuul
-      - [ ] [GitHub Wiki](https://github.com/Netflix/zuul/wiki)
-      - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
     - [ ] API Gateway vs Reverse Proxy
-
-### Java
-
-- [x] Basics
-- [x] Package Manager
-  - [x] [Maven](https://maven.apache.org/)
-  - [x] [Gradle](https://gradle.org/)
-- [ ] Standards and Best Practices
-- [ ] Testing framework
-- [ ] RDBMS pratice
-- [ ] Backend framework
-  - [ ] [Spring](http://spring.io/)
-    - [x] [신입 프로그래머를 위한 자바 스프링 (Spring) 프레임워크 강좌 - 인프런](https://www.inflearn.com/course/%ec%9e%90%eb%b0%94-%ec%8a%a4%ed%94%84%eb%a7%81-%ea%b0%95%ec%a2%8c/)
-    - [ ] [Spring Framework](https://spring.io/projects/spring-framework)
-      - [x] [Core Technologies](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html)
-    - [ ] [Spring Boot](https://spring.io/projects/spring-boot)
-- [ ] NoSQL practice
-- [ ] Caching practice
-- [ ] Creating RESTful APIs
-- [ ] Authentication / Authorization practice
-- [ ] Message Brokers practice
-- [ ] Search Engine practice
-- [ ] Web Sockets
-- [ ] GraphQL and Graph Databases practice
 
 ### Python
 
