@@ -15,26 +15,29 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 ## Frontend
 
 - [ ] HTML
-  - [x] [HTML 수업 - 생활코딩](https://opentutorials.org/course/2039)
-  - [ ] [HTML - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - [ ] [Learning HTML: Guides and tutorials - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-      - [x] [Introduction to HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-      - [ ] [Multimedia and embedding - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
-      - [ ] [HTML forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
-      - [ ] [Learn HTML to solve problems - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
-    - [ ] [HTML reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
-  - [ ] [Dive Into HTML5](http://www.diveintohtml5.net)
+  - [ ] Basics
+    - [x] [HTML 수업 - 생활코딩](https://opentutorials.org/course/2039)
+    - [x] [Introduction to HTML - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+    - [ ] [Multimedia and embedding - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding)
+    - [ ] [HTML forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+    - [ ] [Learn HTML to solve problems - MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto)
+    - [ ] [Dive Into HTML5](http://www.diveintohtml5.net)
+  - [ ] [HTML reference - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+  - [ ] [HTML5 Specification TR - W3C](https://www.w3.org/TR/html5/)
   - [ ] Semantic Web
     - [ ] [Semantic Web - Wikipedia](https://en.wikipedia.org/wiki/Semantic_Web)([번역](https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%A8%ED%8B%B1_%EC%9B%B9))
     - [ ] [시맨틱 웹 - 나무위키](https://namu.wiki/w/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%EC%9B%B9)
     - [ ] [Semantic Web - W3C](https://www.w3.org/standards/semanticweb/)
-  - [ ] [HTML5 Specification TR - W3C](https://www.w3.org/TR/html5/)
 - [ ] CSS
-  - [ ] [CSS - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  - [ ] Basics
     - [ ] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
-    - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-    - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+    - [ ] [Styling text - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
+    - [ ] [Styling boxes - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
+    - [ ] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+    - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
   - [ ] Responsive Websites
+    - [ ] [PWA: Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+  - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [ ] [CSS Specs - W3C](https://www.w3.org/Style/CSS/#specs)
   - [ ] CSS Preprocessors
     - [ ] [Sass](https://sass-lang.com/)
