@@ -90,21 +90,19 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ### Template
 
-⚙️ is Language specific item.
-
-- [ ] ⚙️ Pick a Language
+- [ ] Pick a Language
   - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
   - [x] [Java](https://github.com/khbrst/java_practice)
   - [x] [Rust](https://github.com/khbrst/rust_practice)
-  - [ ] Python
-- [x] ⚙️ Package Manager
-- [x] ⚙️ Standards and Best Practices
-- [x] ⚙️ Testing framework
+  - [x] [Python](https://github.com/khbrst/python_practice)
+- [ ] Package Manager
+- [ ] Standards and Best Practices
+- [ ] Testing framework
 - [ ] RDBMS
   - [ ] [MySQL](https://www.mysql.com/)
   - [ ] [MariaDB](https://mariadb.com/)
   - [ ] [PostgreSQL](https://www.postgresql.org/)
-- [x] ⚙️ Backend framework
+- [ ] Backend framework
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
@@ -128,7 +126,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Web Server
   - [ ] Apache
   - [ ] Nginx
-- [x] ⚙️ Web Sockets
+- [ ] Web Sockets
 - [ ] GraphQL and Graph Databases
 - [ ] Profiling
 - [ ] Static Analysis
@@ -144,32 +142,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] API Gateway
     - [ ] API Gateway vs Reverse Proxy
-
-### Python
-
-- [ ] Basics
-  - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
-  - [ ] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-- [ ] Package Manager
-  - [ ] [pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
-  - [ ] [Anaconda](https://anaconda.org/)
-  - [ ] Version Manager
-    - [ ] [pyenv](https://github.com/pyenv/pyenv)
-    - [ ] [Virtualenv](https://virtualenv.pypa.io/en/stable/)
-- [ ] Standards and Best Practices
-- [ ] Testing framework
-- [ ] RDBMS pratice
-- [ ] Backend framework
-  - [ ] [Django](https://www.djangoproject.com/)
-  - [ ] [Flask](http://flask.pocoo.org/)
-- [ ] NoSQL practice
-- [ ] Caching practice
-- [ ] Creating RESTful APIs
-- [ ] Authentication / Authorization practice
-- [ ] Message Brokers practice
-- [ ] Search Engine practice
-- [ ] Web Sockets
-- [ ] GraphQL and Graph Databases practice
 
 ### DevOps
 
