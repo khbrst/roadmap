@@ -36,6 +36,11 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [x] [Styling boxes - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
     - [x] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
     - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+  - [ ] Media queries
+    - [x] [Media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
+    - [ ] [Using media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+    - [ ] [Testing media queries programmatically - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries)
+    - [ ] [Using Media Queries for Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
   - [ ] Responsive Websites
     - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
     - [ ] [Responsive Web Design | Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
