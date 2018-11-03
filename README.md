@@ -34,7 +34,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [x] [Introduction to CSS - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
     - [x] [Styling text - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)
     - [x] [Styling boxes - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes)
-    - [ ] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+    - [x] [CSS layout - MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
     - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
   - [ ] Responsive Websites
     - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
