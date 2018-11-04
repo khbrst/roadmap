@@ -38,7 +38,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [CSS3 - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
   - [ ] Media queries
     - [x] [Media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries)
-    - [ ] [Using media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+    - [x] [Using media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
     - [ ] [Testing media queries programmatically - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries)
     - [ ] [Using Media Queries for Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
   - [ ] Responsive Websites
