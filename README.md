@@ -43,7 +43,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [x] [Using Media Queries for Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
   - [ ] Responsive Websites
     - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
-    - [ ] [Responsive Web Design | Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+    - [ ] [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
     - [ ] [Progressive Web Apps Training | Google Developers](https://developers.google.com/web/ilt/pwa/)
   - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [ ] [CSS Specs - W3C](https://www.w3.org/Style/CSS/#specs)
