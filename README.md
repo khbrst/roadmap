@@ -41,10 +41,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [x] [Using media queries - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
     - [x] [Testing media queries programmatically - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries)
     - [x] [Using Media Queries for Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility)
-  - [ ] Responsive Websites
-    - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
-    - [ ] [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
-    - [ ] [Progressive Web Apps Training | Google Developers](https://developers.google.com/web/ilt/pwa/)
   - [ ] [CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   - [ ] [CSS Specs - W3C](https://www.w3.org/Style/CSS/#specs)
   - [ ] CSS Preprocessors
@@ -75,7 +71,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Testing framework: [I will practice here](https://github.com/khbrst/ecmascript_practice)
 - [ ] Progressive WebApps
   - [x] Service Workers: [Practiced here](https://github.com/khbrst/ecmascript_practice)
-  - [ ] How to make progressive web apps
+  - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
+  - [ ] [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
+  - [ ] [Progressive Web Apps Training | Google Developers](https://developers.google.com/web/ilt/pwa/)
 - [ ] Server Side Rendering
   - [ ] [React](https://reactjs.org/)
     - [ ] [Next.js](https://nextjs.org/)
