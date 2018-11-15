@@ -4,6 +4,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ## Curiosity
 
+- [x] [Google Test](https://github.com/google/googletest)
+  - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
+  - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
 - [ ] Reactive programming
 - [ ] [Electron](https://electronjs.org/)
 - [ ] [Retrofit](https://square.github.io/retrofit/)
