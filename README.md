@@ -159,10 +159,14 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 ## References
 
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
-- [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
-- [Web | Google Developers](https://developers.google.com/web/)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
-- [Markup Validation Service - W3C](https://validator.w3.org)
-- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
-- [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+- Blog & Article
+  - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
+  - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+- Practice
+  - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
+  - [Exercism](https://exercism.io)
+  - [Web | Google Developers](https://developers.google.com/web/)
+  - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
+- Tools
+  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+  - [Markup Validation Service - W3C](https://validator.w3.org)
