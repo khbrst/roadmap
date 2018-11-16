@@ -170,3 +170,5 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - Tools
   - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - [Markup Validation Service - W3C](https://validator.w3.org)
+  - Automation
+    - [Selenium](https://www.seleniumhq.org/)
