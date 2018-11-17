@@ -165,6 +165,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - Practice
   - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
   - [Exercism](https://exercism.io)
+  - [Google Developers Training](https://developers.google.com/training/)
   - [Web | Google Developers](https://developers.google.com/web/)
   - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - Open Source
