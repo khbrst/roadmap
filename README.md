@@ -4,16 +4,35 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ## Curiosity
 
+### Unit Testing
+
 - [x] [Google Test](https://github.com/google/googletest)
   - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
   - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
-- [ ] Reactive programming
-- [ ] [Electron](https://electronjs.org/)
-- [ ] [Retrofit](https://square.github.io/retrofit/)
-- [ ] [Dagger](https://google.github.io/dagger/)
+
+### Reactive Programming
+
+- [ ] [ReactiveX](http://reactivex.io/)
+- [ ] [Reactor](https://projectreactor.io/)
+
+### Programming Language
+
 - [ ] [Kotlin](https://kotlinlang.org/)
 - [ ] [Swift](https://swift.org/)
 - [ ] [Clojure](https://clojure.org/)
+- [ ] [R Programming](https://www.r-project.org/)
+
+### Platform
+
+- [ ] [Electron](https://electronjs.org/)
+
+### Android
+
+- [ ] [Retrofit](https://square.github.io/retrofit/)
+- [ ] [Dagger](https://google.github.io/dagger/)
+
+### IoT
+
 - [ ] [OCF - Open Connectivity Foundation](https://openconnectivity.org/)
 
 ## Frontend
@@ -95,60 +114,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ## Backend
 
-### Template
+Each programming language has a different structure.
 
-- [ ] Pick a Language
-  - [x] [Node.js](https://github.com/khbrst/ecmascript_practice)
-  - [x] [Java](https://github.com/khbrst/java_practice)
-  - [x] [Rust](https://github.com/khbrst/rust_practice)
-  - [x] [Python](https://github.com/khbrst/python_practice)
-- [ ] Package Manager
-- [ ] Standards and Best Practices
-- [ ] Testing framework
-- [ ] RDBMS
-  - [ ] [MySQL](https://www.mysql.com/)
-  - [ ] [MariaDB](https://mariadb.com/)
-  - [ ] [PostgreSQL](https://www.postgresql.org/)
-- [ ] Backend framework
-- [ ] NoSQL
-  - [ ] [MongoDB](https://www.mongodb.com/)
-  - [ ] [Apache Cassandra](http://cassandra.apache.org/)
-- [ ] Caching
-  - [ ] [memcached](https://memcached.org/)
-  - [ ] [Redis](https://redis.io/)
-- [ ] Authentication / Authorization
-  - [ ] OAuth
-  - [ ] Basic Authentication
-  - [ ] Token Authentication
-  - [ ] JWT
-  - [ ] OpenID
-- [ ] Message Brokers
-  - [ ] RabbitMQ
-  - [ ] Kafka
-- [ ] Search Engine
-  - [ ] ElasticSearch
-  - [ ] Solr
-  - [ ] Sphinx
-- [ ] Docker
-- [ ] Web Server
-  - [ ] Apache
-  - [ ] Nginx
-- [ ] Web Sockets
-- [ ] GraphQL and Graph Databases
-- [ ] Profiling
-- [ ] Static Analysis
-- [ ] DDD
-- [ ] SOAP
-- [ ] serverless
-- [ ] Micro Services
-  - [ ] [Microservice Architecture](https://microservices.io/patterns/microservices.html)
-  - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
-  - [ ] Circuit Breaker
-    - [ ] [Circuit breaker design pattern - Wikipedia](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
-    - [ ] [Circuit Breaker - Microservices.io](https://microservices.io/patterns/reliability/circuit-breaker.html)
-    - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
-  - [ ] API Gateway
-    - [ ] API Gateway vs Reverse Proxy
+- [Node.js](https://github.com/khbrst/ecmascript_practice)
+- [Java](https://github.com/khbrst/java_practice)
+- [Rust](https://github.com/khbrst/rust_practice)
+- [Python](https://github.com/khbrst/python_practice)
 
 ### DevOps
 
@@ -159,6 +130,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 ## References
 
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
+- Trends
+  - [HotFrameworks](http://hotframeworks.com/)
 - Blog & Article
   - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
   - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
