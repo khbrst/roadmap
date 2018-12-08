@@ -72,11 +72,11 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
     - [ ] [Bootstrap](https://getbootstrap.com/)
   - [ ] CSS architecture
     - [ ] BEM
-- [x] JavaScript: [Practiced here](https://github.com/khbrst/ecmascript_practice)
-- [x] TypeScript: [Practiced here](https://github.com/khbrst/ecmascript_practice)
-- [x] Package Manager: [Practiced here](https://github.com/khbrst/ecmascript_practice)
+- [x] JavaScript: [Practiced here](https://github.com/khbrst/es-practice)
+- [x] TypeScript: [Practiced here](https://github.com/khbrst/es-practice)
+- [x] Package Manager: [Practiced here](https://github.com/khbrst/es-practice)
 - [ ] Build tool
-  - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/ecmascript_practice)
+  - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/es-practice)
   - [ ] [gulp.js](https://gulpjs.com/)
   - [ ] [ESLint](https://eslint.org/)
   - [ ] [CSS Lint](http://csslint.net/)
@@ -90,9 +90,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
   - [ ] [Angular](https://angular.io/)
     - [ ] [RxJS](https://rxjs-dev.firebaseapp.com/)
     - [ ] [ngrx](https://ngrx.github.io/)
-- [ ] Testing framework: [I will practice here](https://github.com/khbrst/ecmascript_practice)
+- [x] Testing framework: [Practiced here](https://github.com/khbrst/es-practice)
 - [ ] Progressive WebApps
-  - [x] Service Workers: [Practiced here](https://github.com/khbrst/ecmascript_practice)
+  - [x] Service Workers: [Practiced here](https://github.com/khbrst/es-practice)
   - [ ] [Progressive web apps - MDN](https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive)
   - [ ] [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
   - [ ] [Progressive Web Apps Training | Google Developers](https://developers.google.com/web/ilt/pwa/)
@@ -116,7 +116,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 Each programming language has a different structure.
 
-- [Node.js](https://github.com/khbrst/ecmascript_practice)
+- [Node.js](https://github.com/khbrst/es-practice)
 - [Java](https://github.com/khbrst/java_practice)
 - [Rust](https://github.com/khbrst/rust_practice)
 - [Python](https://github.com/khbrst/python_practice)
