@@ -117,9 +117,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 Each programming language has a different structure.
 
 - [Node.js](https://github.com/khbrst/es-practice)
-- [Java](https://github.com/khbrst/java_practice)
-- [Rust](https://github.com/khbrst/rust_practice)
-- [Python](https://github.com/khbrst/python_practice)
+- [Java](https://github.com/khbrst/java-practice)
+- [Rust](https://github.com/khbrst/rust-practice)
+- [Python](https://github.com/khbrst/python-practice)
 
 ### DevOps
 
