@@ -6,9 +6,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ### Unit Testing
 
-- [x] [Google Test](https://github.com/google/googletest)
-  - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-  - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
+- [ ] C++
+  - [x] [Google Test](https://github.com/google/googletest)
+    - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
+    - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
 
 ### Reactive Programming
 
@@ -78,8 +79,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [ ] Build tool
   - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/es-practice)
   - [ ] [gulp.js](https://gulpjs.com/)
-  - [ ] [ESLint](https://eslint.org/)
-  - [ ] [CSS Lint](http://csslint.net/)
   - [ ] [webpack](https://webpack.js.org/)
 - [ ] Frontend framework
   - [ ] [React](https://reactjs.org/)
@@ -136,22 +135,29 @@ Each programming language has a different structure.
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
 - Trends
   - [HotFrameworks](http://hotframeworks.com/)
-- Blog & Article
-  - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
+- Open Source
+  - [First Contributions](https://firstcontributions.github.io/)
+- Blog
   - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+  - Web
+    - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
 - Practice
   - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
   - [Exercism](https://exercism.io)
   - [Google Developers Training](https://developers.google.com/training/)
-  - [Web | Google Developers](https://developers.google.com/web/)
-  - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
-- Open Source
-  - [First Contributions](https://firstcontributions.github.io/)
+  - Web
+    - [Web | Google Developers](https://developers.google.com/web/)
+    - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - Tools
-  - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-  - [Markup Validation Service - W3C](https://validator.w3.org)
-  - [StackBlitz](https://stackblitz.com/)
-  - [Browserslist](https://github.com/browserslist/browserslist)
-  - [Envoy Proxy](https://www.envoyproxy.io/)
-  - Automation
-    - [Selenium](https://www.seleniumhq.org/)
+  - Web
+    - [StackBlitz](https://stackblitz.com/)
+    - [Browserslist](https://github.com/browserslist/browserslist)
+    - [Envoy Proxy](https://www.envoyproxy.io/)
+    - Benchmark
+      - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+    - Validation & Lint
+      - [Markup Validation Service - W3C](https://validator.w3.org)
+      - [ESLint](https://eslint.org/)
+      - [CSS Lint](http://csslint.net/)
+    - Automation
+      - [Selenium](https://www.seleniumhq.org/)
