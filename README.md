@@ -12,21 +12,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
       - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
     - [ ] [Reactor](https://projectreactor.io/)
-- [ ] Platform and Framework
-  - [ ] Cross-platform Desktop Application
-    - [ ] [Electron](https://electronjs.org/)
-  - [ ] Cross-platform Mobile Application
-    - [ ] [React Native](https://facebook.github.io/react-native/) - [GitHub](https://github.com/facebook/react-native)
-  - [ ] [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
-    - [ ] [Dagger](https://google.github.io/dagger/)
-  - [ ] HTTP client
-    - [ ] [Retrofit](https://square.github.io/retrofit/)
 - [ ] Programming Language
-  - [ ] C++
-    - [ ] Unit Testing
-      - [x] [Google Test](https://github.com/google/googletest)
-        - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-        - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
   - [ ] [Python](https://www.python.org/)
   - [ ] [Ruby](https://www.ruby-lang.org/)
   - [ ] [Go](https://golang.org/)
@@ -35,6 +21,21 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Swift](https://swift.org/)
   - [ ] [Clojure](https://clojure.org/)
   - [ ] [R Programming](https://www.r-project.org/)
+  - [ ] [Rust](https://www.rust-lang.org/)
+- [ ] Library
+  - [ ] HTTP client
+    - [ ] [Retrofit](https://square.github.io/retrofit/)
+- [ ] Framework
+  - [ ] Cross-platform Desktop Application
+    - [ ] [Electron](https://electronjs.org/)
+  - [ ] Cross-platform Mobile Application
+    - [ ] [React Native](https://facebook.github.io/react-native/) - [GitHub](https://github.com/facebook/react-native)
+  - [ ] [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
+    - [ ] [Dagger](https://google.github.io/dagger/)
+  - [ ] Unit Testing
+    - [x] [Google Test](https://github.com/google/googletest)
+      - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
+      - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
 
 ## Frontend
 
@@ -107,7 +108,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [Getting started](https://angular.io/guide/quickstart)
       - [x] [Tutorial: Tour of Heroes](https://angular.io/tutorial): [Practiced here](https://github.com/khbrst/angular-tour-of-heroes)
       - [ ] Fundamentals
-        - [ ] [Architecture](https://angular.io/guide/architecture)
+        - [x] [Architecture](https://angular.io/guide/architecture)
         - [ ] [Components & Templates](https://angular.io/guide/displaying-data)
         - [ ] [Forms](https://angular.io/guide/forms-overview)
         - [ ] [Observables & RxJS](https://angular.io/guide/observables)
