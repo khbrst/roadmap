@@ -4,24 +4,16 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 
 ## Curiosity
 
-- [ ] Programming Paradigm
-  - [ ] Reactive Programming
-    - [ ] [ReactiveX](http://reactivex.io/)
-      - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
-      - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
-      - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
-      - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
-    - [ ] [Reactor](https://projectreactor.io/)
 - [ ] Programming Language
-  - [ ] [Python](https://www.python.org/)
-  - [ ] [Ruby](https://www.ruby-lang.org/)
-  - [ ] [Go](https://golang.org/)
   - [ ] [Node.js](https://nodejs.org/)
+  - [ ] [Rust](https://www.rust-lang.org/)
+  - [ ] [Go](https://golang.org/)
   - [ ] [Kotlin](https://kotlinlang.org/)
+  - [ ] [Python](https://www.python.org/)
   - [ ] [Swift](https://swift.org/)
+  - [ ] [Ruby](https://www.ruby-lang.org/)
   - [ ] [Clojure](https://clojure.org/)
   - [ ] [R Programming](https://www.r-project.org/)
-  - [ ] [Rust](https://www.rust-lang.org/)
 - [ ] Library
   - [ ] HTTP client
     - [ ] [Retrofit](https://square.github.io/retrofit/)
@@ -36,6 +28,14 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Google Test](https://github.com/google/googletest)
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
+- [ ] Programming Paradigm
+  - [ ] Reactive Programming
+    - [ ] [ReactiveX](http://reactivex.io/)
+      - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
+      - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
+      - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
+      - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
+    - [ ] [Reactor](https://projectreactor.io/)
 
 ## Frontend
 
@@ -91,7 +91,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Official Docs](https://vuejs.org/guide/)
       - [ ] Essentials
         - [x] [Introduction](https://vuejs.org/guide/)
-        - [ ] [The Vue Instance](https://vuejs.org/v2/guide/instance.html)
+        - [x] [The Vue Instance](https://vuejs.org/v2/guide/instance.html)
         - [ ] [Template Syntax](https://vuejs.org/v2/guide/syntax.html)
         - [ ] [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
         - [ ] [Class and Style Bindings](https://vuejs.org/v2/guide/class-and-style.html)
@@ -185,7 +185,7 @@ Each programming language has a different structure.
   - Web
     - [Browserslist](https://github.com/browserslist/browserslist)
     - [Envoy Proxy](https://www.envoyproxy.io/)
-    - Editor
+    - Online Editor
       - [CodeSandbox](https://codesandbox.io/)
       - [StackBlitz](https://stackblitz.com/)
     - CDN
