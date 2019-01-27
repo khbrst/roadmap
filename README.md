@@ -4,37 +4,27 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 
 ## Curiosity
 
-### Unit Testing
-
-- [ ] C++
-  - [x] [Google Test](https://github.com/google/googletest)
-    - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
-    - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
-
-### Reactive Programming
-
-- [ ] [ReactiveX](http://reactivex.io/)
-- [ ] [Reactor](https://projectreactor.io/)
-
-### Programming Language
-
-- [ ] [Kotlin](https://kotlinlang.org/)
-- [ ] [Swift](https://swift.org/)
-- [ ] [Clojure](https://clojure.org/)
-- [ ] [R Programming](https://www.r-project.org/)
-
-### Platform
-
-- [ ] [Electron](https://electronjs.org/)
-
-### Android
-
-- [ ] [Retrofit](https://square.github.io/retrofit/)
-- [ ] [Dagger](https://google.github.io/dagger/)
-
-### IoT
-
-- [ ] [OCF - Open Connectivity Foundation](https://openconnectivity.org/)
+- [ ] Programming Paradigm
+  - [ ] Reactive Programming
+    - [ ] [ReactiveX](http://reactivex.io/)
+    - [ ] [Reactor](https://projectreactor.io/)
+- [ ] Platform and Framework
+  - [ ] [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
+    - [ ] [Dagger](https://google.github.io/dagger/)
+  - [ ] Cross-platform desktop app
+    - [ ] [Electron](https://electronjs.org/)
+  - [ ] HTTP client
+    - [ ] [Retrofit](https://square.github.io/retrofit/)
+- [ ] Programming Language
+  - [ ] C++
+    - [ ] Unit Testing
+      - [x] [Google Test](https://github.com/google/googletest)
+        - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
+        - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
+  - [ ] [Kotlin](https://kotlinlang.org/)
+  - [ ] [Swift](https://swift.org/)
+  - [ ] [Clojure](https://clojure.org/)
+  - [ ] [R Programming](https://www.r-project.org/)
 
 ## Frontend
 
@@ -77,14 +67,22 @@ Roadmap to developer. Inspired by the [Web developer roadmap 2018](https://githu
 - [x] TypeScript: [Practiced here](https://github.com/khbrst/es-practice)
 - [x] Package Manager: [Practiced here](https://github.com/khbrst/es-practice)
 - [ ] Build tool
-  - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/es-practice)
-  - [ ] [gulp.js](https://gulpjs.com/)
-  - [ ] [webpack](https://webpack.js.org/)
+  - [ ] Package Manager
+    - [x] [NPM scripts](https://docs.npmjs.com/misc/scripts): [Practiced here](https://github.com/khbrst/es-practice)
+    - [ ] [Yarn](https://yarnpkg.com)
+  - [ ] Package Bundler
+    - [ ] [webpack](https://webpack.js.org/)
+    - [ ] [Browserify](http://browserify.org/)
+  - [ ] Task Runner
+    - [ ] [gulp.js](https://gulpjs.com/)
 - [ ] Frontend framework
   - [ ] [React](https://reactjs.org/)
     - [ ] [Redux](https://redux.js.org/)
     - [ ] [MobX](https://mobx.js.org/)
   - [ ] [Vue.js](https://vuejs.org/)
+    - [ ] [Official Docs](https://vuejs.org/guide/)
+      - [x] [Introduction](https://vuejs.org/guide/)
+      - [ ] [The Vue Instance](https://vuejs.org/v2/guide/instance.html)
     - [ ] [Vuex](https://vuex.vuejs.org/)
   - [ ] [Angular](https://angular.io/)
     - [ ] [Official Docs](https://angular.io/docs)
@@ -124,7 +122,7 @@ Each programming language has a different structure.
 - [Rust](https://github.com/khbrst/rust-practice)
 - [Python](https://github.com/khbrst/python-practice)
 
-### DevOps
+## DevOps
 
 - [ ] CI and CD
   - [ ] [Awsome CI](https://github.com/ligurio/awesome-ci)
@@ -150,9 +148,13 @@ Each programming language has a different structure.
     - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - Tools
   - Web
-    - [StackBlitz](https://stackblitz.com/)
     - [Browserslist](https://github.com/browserslist/browserslist)
     - [Envoy Proxy](https://www.envoyproxy.io/)
+    - Editor
+      - [CodeSandbox](https://codesandbox.io/)
+      - [StackBlitz](https://stackblitz.com/)
+    - CDN
+      - [UNPKG](https://unpkg.com/)
     - Benchmark
       - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
     - Validation & Lint
