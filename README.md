@@ -96,7 +96,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
         - [x] [Computed Properties and Watchers](https://vuejs.org/v2/guide/computed.html)
         - [x] [Class and Style Bindings](https://vuejs.org/v2/guide/class-and-style.html)
         - [x] [Conditional Rendering](https://vuejs.org/v2/guide/conditional.html)
-        - [ ] [List Rendering](https://vuejs.org/v2/guide/list.html)
+        - [x] [List Rendering](https://vuejs.org/v2/guide/list.html)
         - [ ] [Event Handling](https://vuejs.org/v2/guide/events.html)
         - [ ] [Form Input Bindings](https://vuejs.org/v2/guide/forms.html)
         - [ ] [Components Basics](https://vuejs.org/v2/guide/components.html)
