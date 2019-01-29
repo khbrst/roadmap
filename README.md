@@ -168,16 +168,16 @@ Each programming language has a different structure.
   - [Semantic Versioning](https://semver.org/)
 - Trends
   - [HotFrameworks](http://hotframeworks.com/)
-- Open Source
-  - [First Contributions](https://firstcontributions.github.io/)
 - Blog
   - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
   - Web
     - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
-- Practice
+- Tutorial & Training
   - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
   - [Exercism](https://exercism.io)
   - [Google Developers Training](https://developers.google.com/training/)
+  - Open Source
+    - [First Contributions](https://firstcontributions.github.io/)
   - Web
     - [Web | Google Developers](https://developers.google.com/web/)
     - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
