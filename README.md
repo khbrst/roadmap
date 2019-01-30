@@ -97,8 +97,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
         - [x] [Class and Style Bindings](https://vuejs.org/v2/guide/class-and-style.html)
         - [x] [Conditional Rendering](https://vuejs.org/v2/guide/conditional.html)
         - [x] [List Rendering](https://vuejs.org/v2/guide/list.html)
-        - [ ] [Event Handling](https://vuejs.org/v2/guide/events.html)
-        - [ ] [Form Input Bindings](https://vuejs.org/v2/guide/forms.html)
+        - [x] [Event Handling](https://vuejs.org/v2/guide/events.html)
+        - [x] [Form Input Bindings](https://vuejs.org/v2/guide/forms.html)
         - [ ] [Components Basics](https://vuejs.org/v2/guide/components.html)
       - [ ] Meta
         - [x] [Comparison with Other Frameworks](https://vuejs.org/v2/guide/comparison.html)
