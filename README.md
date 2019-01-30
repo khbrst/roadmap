@@ -184,8 +184,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 
 ## Backend
 
-- [Java](https://github.com/khbrst/java-practice)
-- [Rust](https://github.com/khbrst/rust-practice)
 - [Python](https://github.com/khbrst/python-practice)
 - [ ] Package Manager
   - [ ] Node.js: [Practiced here](https://github.com/khbrst/es-practice)
@@ -193,6 +191,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [npm Documentation](https://docs.npmjs.com/)
       - [x] [NVM: Node Version Manager](https://github.com/creationix/nvm)
     - [ ] [Yarn](https://yarnpkg.com)
+  - [x] Java
+    - [x] [Maven](https://maven.apache.org/)
+    - [x] [Gradle](https://gradle.org/)
 - [ ] Standards and Best Practices
   - [ ] Node.js: [Practiced here](https://github.com/khbrst/es-practice)
     - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
@@ -263,6 +264,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
     - [ ] [Sails.js](https://sailsjs.com/)
     - [ ] [Meteor](https://www.meteor.com/)
+  - [ ] Java
+    - [ ] [Spring](http://spring.io/)
+      - [x] [신입 프로그래머를 위한 자바 스프링 (Spring) 프레임워크 강좌 - 인프런](https://www.inflearn.com/course/%ec%9e%90%eb%b0%94-%ec%8a%a4%ed%94%84%eb%a7%81-%ea%b0%95%ec%a2%8c/)
+      - [ ] [Spring Framework](https://spring.io/projects/spring-framework)
+        - [x] [Core Technologies](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html)
+      - [ ] [Spring Boot](https://spring.io/projects/spring-boot)
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
@@ -303,6 +310,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] API Gateway
     - [ ] API Gateway vs Reverse Proxy
+    - [ ] Java
+      - [ ] Netflix/Zuul
+        - [ ] [GitHub Wiki](https://github.com/Netflix/zuul/wiki)
+        - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
 
 ## DevOps
 
