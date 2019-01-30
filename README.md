@@ -41,6 +41,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Go](https://golang.org/)
   - [ ] [Kotlin](https://kotlinlang.org/)
   - [ ] [Python](https://www.python.org/)
+    - [ ] [Google's Python Class](https://developers.google.com/edu/python/)
+    - [ ] [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
   - [ ] [Swift](https://swift.org/)
   - [ ] [Ruby](https://www.ruby-lang.org/)
   - [ ] [Clojure](https://clojure.org/)
@@ -184,7 +186,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 
 ## Backend
 
-- [Python](https://github.com/khbrst/python-practice)
 - [ ] Package Manager
   - [ ] Node.js: [Practiced here](https://github.com/khbrst/es-practice)
     - [x] [npm](https://www.npmjs.com/)
@@ -194,6 +195,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [x] Java
     - [x] [Maven](https://maven.apache.org/)
     - [x] [Gradle](https://gradle.org/)
+  - [ ] Python
+    - [ ] [pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
+    - [ ] [Anaconda](https://anaconda.org/)
+    - [ ] Version Manager
+      - [ ] [pyenv](https://github.com/pyenv/pyenv)
+      - [ ] [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 - [ ] Standards and Best Practices
   - [ ] Node.js: [Practiced here](https://github.com/khbrst/es-practice)
     - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
@@ -270,6 +277,11 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [Spring Framework](https://spring.io/projects/spring-framework)
         - [x] [Core Technologies](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html)
       - [ ] [Spring Boot](https://spring.io/projects/spring-boot)
+  - [ ] Python
+    - [ ] [Django](https://www.djangoproject.com/)
+      - [ ] [Django Web Framework (Python) - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+      - [ ] [Getting started | Django documentation](https://docs.djangoproject.com/en/stable/intro)
+    - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
