@@ -29,6 +29,15 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Client-Server overview - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
     - [x] [Server-side web frameworks - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)
   - [ ] [Rust](https://www.rust-lang.org/)
+    - [x] [Book](https://doc.rust-lang.org/book/): [2판 한글 번역](https://rinthel.github.io/rust-lang-book-ko/)([GitHub](https://github.com/rinthel/rust-lang-book-ko))
+    - [x] [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)([GitHub](https://github.com/rust-lang/rust-by-example))
+      - [ ] [What is the difference between iter and into_iter? - Stack Overflow](https://stackoverflow.com/a/34745885/10358228)
+    - [x] [Frequently Asked Questions](https://www.rust-lang.org/en-US/faq.html)([한글](https://www.rust-lang.org/ko-KR/faq.html))
+    - [ ] [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+    - [ ] [The Standard Library](https://doc.rust-lang.org/std/index.html)
+    - [ ] [The Rustc Book](https://doc.rust-lang.org/rustc/index.html)
+    - [ ] [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+    - [ ] [The Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
   - [ ] [Go](https://golang.org/)
   - [ ] [Kotlin](https://kotlinlang.org/)
   - [ ] [Python](https://www.python.org/)
@@ -57,7 +66,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
       - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
       - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
+      - [ ] [RxRust](https://github.com/ReactiveX/RxRust)
     - [ ] [Reactor](https://projectreactor.io/)
+- [ ] [LLVM](https://llvm.org/)
+  - [ ] [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM)([한글](https://ko.wikipedia.org/wiki/LLVM))
+  - [x] [LLVM - 나무위키](https://namu.wiki/w/LLVM)
+- [ ] [Hygienic macro - Wikipedia](https://en.wikipedia.org/wiki/Hygienic_macro)
 
 ## Frontend
 
@@ -303,7 +317,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [Semantic Versioning](https://semver.org/)
 - Trends
   - [Google Trends](https://trends.google.com/trends)
-	- [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+  - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
   - Database
     - [DB-Engines Ranking](https://db-engines.com/en/ranking) and [history](https://db-engines.com/en/ranking_trend)([Method of calculating the scores](https://db-engines.com/en/ranking_definition))
   - Web
@@ -312,8 +326,16 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - ECMAScript
     - [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
     - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- Community
+  - Rust
+    - [한국 러스트 사용자 그룹 - Facebook](https://www.facebook.com/groups/rustlang/)
 - Blog & Article
   - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
+  - Rust
+    - Development environment
+      - [Rust development using VS Code on OS X, debugging included.](https://medium.com/@royalstream/rust-development-using-vs-code-on-os-x-debugging-included-bc10c9863777): (VS Code + Rusty Code + Native Debug) + (Rust + Racer + GDB)
+      - [Visual Studio Code를 이용한 Rust 개발환경 꾸며보기 - Rinthel's note](https://rinthel.github.io/2017/08/20/rust-vscode-macos/): (VS Code + Rusty Code(rls) + Native Debug) + (Rust + GDB)
+      - [Debugging Rust programs with lldb on MacOS](https://bryce.fisher-fleig.org/blog/debugging-rust-programs-with-lldb/index.html): Rust + LLDB
   - Database
     - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
   - Web
@@ -341,6 +363,26 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [Google Developers Training](https://developers.google.com/training/)
   - Open Source
     - [First Contributions](https://firstcontributions.github.io/)
+  - [Rust Programming Language - Official site](https://www.rust-lang.org)
+    - [Rust Documentation](https://www.rust-lang.org/en-US/documentation.html)([한글](https://www.rust-lang.org/ko-KR/documentation.html)) and [another documentation index](https://doc.rust-lang.org/)
+      - Learn Rust
+        - [Book](https://doc.rust-lang.org/book/)
+          - [1판 한글 번역](https://www.penflip.com/sarojaba/rust-doc-korean)
+          - [2판 한글 번역](https://rinthel.github.io/rust-lang-book-ko/)([GitHub](https://github.com/rinthel/rust-lang-book-ko))
+        - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)([GitHub](https://github.com/rust-lang/rust-by-example))
+        - [Frequently Asked Questions](https://www.rust-lang.org/en-US/faq.html)([한글](https://www.rust-lang.org/ko-KR/faq.html))
+        - [rust-learning](https://github.com/ctjhoa/rust-learning)
+      - Use Rust
+        - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+        - [The Standard Library](https://doc.rust-lang.org/std/index.html)
+        - [The Rustc Book](https://doc.rust-lang.org/rustc/index.html)
+        - [The Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+        - [The Rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
+        - [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
+      - Master Rust
+        - [The Reference](https://doc.rust-lang.org/reference/index.html)
+        - [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
+        - [The Unstable Book](https://doc.rust-lang.org/unstable-book/index.html)
   - Web
     - [Web | Google Developers](https://developers.google.com/web/)
     - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
@@ -364,7 +406,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [CSS Lint](http://csslint.net/)
     - Automation
       - [Selenium](https://www.seleniumhq.org/)
-- Packages
+- Projects & Packages
   - Node.js
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
     - Rust
@@ -423,6 +465,16 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [js-beautify](https://www.npmjs.com/package/js-beautify)
     - Code Coverage
       - [Istanbul](https://github.com/gotwarlost/istanbul)
+  - Rust
+    - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
+    - [Rust OS Projects](https://wiki.osdev.org/Rust)
+    - Mobile
+      - [Rust on Android](https://github.com/tomaka/android-rs-glue)
+      - [Rust on iOS](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
+    - Web
+      - [Are we web yet? - Rust](https://www.arewewebyet.org/)
+      - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon)): Rust + Node.js
+      - [The Rusty Web](https://davidmcneil.gitbooks.io/the-rusty-web/)(Experimental: [WebAssembly](https://webassembly.org/) and [asm.js](http://asmjs.org/))
 - Products
   - Development Environment
     - Declarative provisioning
