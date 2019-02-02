@@ -50,6 +50,14 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] Library
   - [ ] HTTP client
     - [ ] [Retrofit](https://square.github.io/retrofit/)
+  - [ ] Functional Reactive Programming
+    - [ ] [ReactiveX](http://reactivex.io/)
+      - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
+      - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
+      - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
+      - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
+      - [ ] [RxRust](https://github.com/ReactiveX/RxRust)
+    - [ ] [Reactor](https://projectreactor.io/)
 - [ ] Framework
   - [ ] Cross-platform Desktop Application
     - [ ] [Electron](https://electronjs.org/)
@@ -62,14 +70,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
 - [ ] Programming Paradigm
-  - [ ] Reactive Programming
-    - [ ] [ReactiveX](http://reactivex.io/)
-      - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
-      - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
-      - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
-      - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
-      - [ ] [RxRust](https://github.com/ReactiveX/RxRust)
-    - [ ] [Reactor](https://projectreactor.io/)
+  - [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+    - [x] [(번역) 함수형 프로그래밍이란 무엇인가? - Jooyung Han (한주영) - Medium](https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263)
+  - [ ] [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
+  - [ ] [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
 - [ ] [LLVM](https://llvm.org/)
   - [ ] [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM)([한글](https://ko.wikipedia.org/wiki/LLVM))
   - [x] [LLVM - 나무위키](https://namu.wiki/w/LLVM)
@@ -171,10 +175,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] Canvas
 - [ ] HTML5 APIs
 - [ ] SVG
-- [ ] sourcemaps
-- [ ] Functional programmings
-  - [x] [(번역) 함수형 프로그래밍이란 무엇인가? - Jooyung Han (한주영) - Medium](https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263)
-- [ ] TC39
+- [ ] Source Maps
+  - [ ] [Introduction to JavaScript Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+- [ ] TC39 - [GitHub](https://github.com/tc39)
 - [ ] Semantic Web
   - [ ] [Semantic Web - Wikipedia](https://en.wikipedia.org/wiki/Semantic_Web)([번역](https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%A8%ED%8B%B1_%EC%9B%B9))
   - [ ] [시맨틱 웹 - 나무위키](https://namu.wiki/w/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%EC%9B%B9)
