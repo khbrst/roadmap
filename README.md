@@ -69,8 +69,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Google Test](https://github.com/google/googletest)
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
-- [ ] Programming Paradigm
-  - [ ] [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
+- [ ] [Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+  - [x] [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
     - [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
       - [x] [(번역) 함수형 프로그래밍이란 무엇인가? - Jooyung Han (한주영) - Medium](https://medium.com/@jooyunghan/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-fab4e960d263)
     - [ ] [Dataflow Programming](https://en.wikipedia.org/wiki/Dataflow_programming)
