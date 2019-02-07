@@ -58,7 +58,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [Operators](http://reactivex.io/documentation/operators.html)
       - [x] [Single](http://reactivex.io/documentation/single.html)
       - [x] [Subject](http://reactivex.io/documentation/subject.html)
-      - [ ] [Scheduler](http://reactivex.io/documentation/scheduler.html)
+      - [x] [Scheduler](http://reactivex.io/documentation/scheduler.html)
     - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
     - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
     - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
