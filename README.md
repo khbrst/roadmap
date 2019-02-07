@@ -53,6 +53,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [x] [Reactive Extensions](https://en.wikipedia.org/wiki/Reactive_extensions) - [ReactiveX](http://reactivex.io/)
     - [x] [Rx와 Functional Reactive Programming으로 고성능 서버 만들기 - Slideshare](https://www.slideshare.net/jongwookkim/ndc14-rx-functional-reactive-programming)
     - [x] [ReactiveX - Intro](http://reactivex.io/intro.html)
+    - [x] [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)([번역](https://gist.github.com/casamia918/93b8db69beb9ee06b92a96b2a234d48e))
     - [ ] [ReactiveX Docs](http://reactivex.io/documentation/observable.html)
       - [x] [Observable](http://reactivex.io/documentation/observable.html)
       - [ ] [Operators](http://reactivex.io/documentation/operators.html)
