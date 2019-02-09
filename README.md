@@ -351,6 +351,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
 - Basics
   - [Semantic Versioning](https://semver.org/)
+  - [Git](https://git-scm.com/)
+    - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)([번역](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/))
 - Trends
   - [Google Trends](https://trends.google.com/trends)
   - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
