@@ -63,6 +63,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [Scheduler](http://reactivex.io/documentation/scheduler.html)
     - [ ] [RxJS](https://rxjs.dev/) - [GitHub](https://github.com/ReactiveX/rxjs)
       - [x] [RxJS Official Docs](https://rxjs.dev/guide/overview): [Practiced here](https://github.com/khbrst/es-practice)
+      - [x] [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions - YouTube](https://www.youtube.com/watch?v=XRYN2xt11Ek)
     - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
     - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
     - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
