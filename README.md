@@ -191,6 +191,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] Source Maps
   - [ ] [Introduction to JavaScript Source Maps](https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 - [ ] TC39 - [GitHub](https://github.com/tc39)
+  - [x] [ECMAScript와 TC39](https://ahnheejong.name/articles/ecmascript-tc39/)
 - [ ] Semantic Web
   - [ ] [Semantic Web - Wikipedia](https://en.wikipedia.org/wiki/Semantic_Web)([번역](https://ko.wikipedia.org/wiki/%EC%8B%9C%EB%A7%A8%ED%8B%B1_%EC%9B%B9))
   - [ ] [시맨틱 웹 - 나무위키](https://namu.wiki/w/%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%EC%9B%B9)
