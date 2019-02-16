@@ -21,7 +21,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [x] [TypeScript](https://www.typescriptlang.org/)
     - [x] [타입스크립트 코리아 : 기초 세미나 - 인프런](https://www.inflearn.com/course/%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%ec%bd%94%eb%a6%ac%ec%95%84-1705-%ea%b8%b0%ec%b4%88-%ec%84%b8%eb%af%b8%eb%82%98/)
     - [x] [Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html)([번역](https://typescript-kr.github.io))
-    - [x] [How do the different enum variants work in TypeScript? - Stackoverflow](https://stackoverflow.com/a/28818850/10358228)
+    - [x] [How do the different enum variants work in TypeScript? - Stack Overflow](https://stackoverflow.com/a/28818850/10358228)
   - [x] [Node.js](https://nodejs.org/)
     - [x] [JavaScript (nodejs) - 생활코딩](https://opentutorials.org/course/2136)
     - [x] [Node.js server without a framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
