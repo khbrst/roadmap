@@ -60,6 +60,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [RxJS Official Docs](https://rxjs.dev/guide/overview): [Practiced here](https://github.com/khbrst/es-practice)
       - [x] [Netflix JavaScript Talks - Async JavaScript with Reactive Extensions - YouTube](https://www.youtube.com/watch?v=XRYN2xt11Ek)
       - [ ] [Learn RxJS](https://www.learnrxjs.io/) - [GitHub](https://github.com/btroncone/learn-rxjs)
+      - [x] [Difference Between throttling and debouncing a function - Stack Overflow](https://stackoverflow.com/a/25991510/10358228)
     - [ ] [RxJava](https://github.com/ReactiveX/RxJava)
     - [ ] [RxKotlin](https://github.com/ReactiveX/RxKotlin)
     - [ ] [RxCpp](http://reactivex.io/RxCpp/) - [GitHub](https://github.com/ReactiveX/RxCpp)
