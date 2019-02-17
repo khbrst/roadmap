@@ -73,6 +73,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Electron](https://electronjs.org/)
   - [ ] Cross-platform Mobile Application
     - [ ] [React Native](https://facebook.github.io/react-native/) - [GitHub](https://github.com/facebook/react-native)
+    - [ ] [NativeScript](https://www.nativescript.org/) - [GitHub](https://github.com/NativeScript/NativeScript)
   - [ ] [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection)
     - [ ] [Dagger](https://google.github.io/dagger/)
   - [ ] Unit Testing
