@@ -451,6 +451,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [The Neon Project](https://www.neon-bindings.com/)([GitHub](https://github.com/neon-bindings/neon))
     - TypeScript
       - [ts-node](https://github.com/TypeStrong/ts-node)
+    - Editor
+      - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - [GitHub](https://github.com/Microsoft/monaco-editor)
     - Project configuration
       - [rc](https://www.npmjs.com/package/rc)
       - [nconf](https://www.npmjs.com/package/nconf)
