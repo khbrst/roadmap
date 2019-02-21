@@ -546,6 +546,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [Swagger](https://swagger.io/)
   - API Testing
     - [Postman](https://www.getpostman.com/)
+  - Code Coverage
+    - [Codecov](https://codecov.io/)
   - CI Platform
     - [Jenkins](https://jenkins.io/)
     - [Circle CI](https://circleci.com/)
