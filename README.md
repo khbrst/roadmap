@@ -282,7 +282,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
         - [x] [Express routing](https://expressjs.com/en/guide/routing.html)
         - [x] [Writing middleware for use in Express apps](https://expressjs.com/en/guide/writing-middleware.html)
         - [x] [Using middleware](https://expressjs.com/en/guide/using-middleware.html)
-        - [ ] [Using template engines with Express](https://expressjs.com/en/guide/using-template-engines.html)
+        - [x] [Using template engines with Express](https://expressjs.com/en/guide/using-template-engines.html)
         - [ ] [Error Handling](https://expressjs.com/en/guide/error-handling.html)
         - [ ] [Debugging Express](https://expressjs.com/en/guide/debugging.html)
         - [ ] [Express behind proxies](https://expressjs.com/en/guide/behind-proxies.html)
