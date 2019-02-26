@@ -284,7 +284,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
         - [x] [Using middleware](https://expressjs.com/en/guide/using-middleware.html)
         - [x] [Using template engines with Express](https://expressjs.com/en/guide/using-template-engines.html)
         - [x] [Error Handling](https://expressjs.com/en/guide/error-handling.html)
-        - [ ] [Debugging Express](https://expressjs.com/en/guide/debugging.html)
+        - [x] [Debugging Express](https://expressjs.com/en/guide/debugging.html)
         - [ ] [Express behind proxies](https://expressjs.com/en/guide/behind-proxies.html)
       - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
     - [ ] [Sails.js](https://sailsjs.com/)
