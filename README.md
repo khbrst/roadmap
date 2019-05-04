@@ -445,6 +445,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - Automation
       - [Selenium](https://www.seleniumhq.org/)
 - Projects & Packages
+  - Serialization
+    - [Protocol Buffers](https://developers.google.com/protocol-buffers/)([GitHub](https://github.com/protocolbuffers/protobuf))
   - Node.js
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
     - Rust
