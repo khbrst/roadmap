@@ -34,6 +34,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [What is the difference between iter and into_iter? - Stack Overflow](https://stackoverflow.com/a/34745885/10358228)
     - [x] [Frequently Asked Questions](https://www.rust-lang.org/en-US/faq.html)([한글](https://www.rust-lang.org/ko-KR/faq.html))
     - [ ] [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+    - [x] [Rust - Rethinking Systems Programming](https://thoughtram.io/rust-and-nickel/#/)
   - [ ] [Go](https://golang.org/)
   - [ ] [Kotlin](https://kotlinlang.org/)
   - [ ] [Python](https://www.python.org/)
