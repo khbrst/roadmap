@@ -279,7 +279,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Express](https://expressjs.com/)
       - [x] [Express web framework - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs): [`LocalLibrary` practiced here](https://github.com/khbrst/express-locallibrary-tutorial)
       - [x] [Express Guide](https://expressjs.com/en/guide/routing.html)
-      - [ ] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
+      - [x] [Express 4.x - API Reference](https://expressjs.com/en/4x/api.html)
     - [ ] [Sails.js](https://sailsjs.com/)
     - [ ] [Meteor](https://www.meteor.com/)
   - [ ] Java
