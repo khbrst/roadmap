@@ -204,8 +204,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Gradle](https://gradle.org/)
   - [ ] Python
     - [ ] [pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
-    - [ ] [Anaconda](https://anaconda.org/)
     - [ ] Version Manager
+      - [ ] [Anaconda](https://anaconda.org/)
       - [ ] [pyenv](https://github.com/pyenv/pyenv)
       - [ ] [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 - [ ] Standards and Best Practices
