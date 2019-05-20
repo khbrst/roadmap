@@ -31,7 +31,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Rust](https://www.rust-lang.org/)
     - [x] [Book](https://doc.rust-lang.org/book/): [2판 한글 번역](https://rinthel.github.io/rust-lang-book-ko/)([GitHub](https://github.com/rinthel/rust-lang-book-ko))
     - [x] [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)([GitHub](https://github.com/rust-lang/rust-by-example))
-      - [ ] [What is the difference between iter and into_iter? - Stack Overflow](https://stackoverflow.com/a/34745885/10358228)
+      - [x] [What is the difference between iter and into_iter? - Stack Overflow](https://stackoverflow.com/a/34745885/10358228)
     - [x] [Frequently Asked Questions](https://www.rust-lang.org/en-US/faq.html)([한글](https://www.rust-lang.org/ko-KR/faq.html))
     - [ ] [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
     - [ ] [The Standard Library](https://doc.rust-lang.org/std/index.html)
