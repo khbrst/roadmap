@@ -292,6 +292,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
+    - [ ] [MongoDB Manual](https://docs.mongodb.com/manual)
+      - [ ] [Introduction - MongoDB Manual](https://docs.mongodb.com/manual/introduction)
+      - [ ] [The `mongo` Shell - MongoDB Manual](https://docs.mongodb.com/manual/mongo)
+      - [ ] [MongoDB CRUD Operations - MongoDB Manual](https://docs.mongodb.com/manual/crud)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
 - [ ] Caching
   - [ ] [memcached](https://memcached.org/)
