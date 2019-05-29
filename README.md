@@ -66,6 +66,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Reactive Streams - Wikipedia](https://en.wikipedia.org/wiki/Reactive_Streams)
     - [ ] [Reactor](https://projectreactor.io/)
 - [ ] Framework
+  - [ ] [LLVM](https://llvm.org/)
+    - [ ] [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM)([한글](https://ko.wikipedia.org/wiki/LLVM))
+    - [x] [LLVM - 나무위키](https://namu.wiki/w/LLVM)
   - [ ] Cross-platform Desktop Application
     - [ ] [Electron](https://electronjs.org/)
   - [ ] Cross-platform Mobile Application
@@ -77,6 +80,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Google Test](https://github.com/google/googletest)
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
+- [ ] Tools
+  - [ ] [Tmux](https://github.com/tmux/tmux)
 - [ ] [Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
   - [x] [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
     - [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
@@ -84,10 +89,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Dataflow Programming](https://en.wikipedia.org/wiki/Dataflow_programming)
       - [x] [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
     - [x] [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
-- [ ] [LLVM](https://llvm.org/)
-  - [ ] [LLVM - Wikipedia](https://en.wikipedia.org/wiki/LLVM)([한글](https://ko.wikipedia.org/wiki/LLVM))
-  - [x] [LLVM - 나무위키](https://namu.wiki/w/LLVM)
-- [ ] [Hygienic macro - Wikipedia](https://en.wikipedia.org/wiki/Hygienic_macro)
+  - [ ] [Hygienic macro - Wikipedia](https://en.wikipedia.org/wiki/Hygienic_macro)
 
 ## Frontend
 
