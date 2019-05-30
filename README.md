@@ -80,8 +80,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Google Test](https://github.com/google/googletest)
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
-- [ ] Tools
-  - [ ] [Tmux](https://github.com/tmux/tmux)
 - [ ] [Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
   - [x] [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
     - [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
@@ -429,6 +427,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [Web | Google Developers](https://developers.google.com/web/)
     - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
 - Tools
+  - Terminal
+    - [Tmux](https://github.com/tmux/tmux)
+      - [.tmux (Oh My Tmux)](https://github.com/gpakosz/.tmux)
+  - Unix Shell
+    - [Zsh](http://www.zsh.org/)  
+      - [Oh My Zsh](https://ohmyz.sh/) - [GitHub](https://github.com/robbyrussell/oh-my-zsh)
   - Database
     - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
     - [SQL Fiddle](http://sqlfiddle.com/)
