@@ -308,7 +308,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] Graph databases
     - [ ] [Neo4j](https://neo4j.com/)
 - [x] Caching
-- [ ] Creating RESTful APIs
+- [x] Creating RESTful APIs
 - [ ] Authentication / Authorization
   - [ ] OAuth
   - [ ] Basic Authentication
