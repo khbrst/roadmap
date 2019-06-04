@@ -296,7 +296,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [Introduction - MongoDB Manual](https://docs.mongodb.com/manual/introduction)
       - [ ] [The `mongo` Shell - MongoDB Manual](https://docs.mongodb.com/manual/mongo)
       - [ ] [MongoDB CRUD Operations - MongoDB Manual](https://docs.mongodb.com/manual/crud)
-    - [ ] [MongoDB in Action - 몽고디비 인 액션](https://books.google.co.kr/books?isbn=9788994506395)
+    - [x] [📚 MongoDB in Action - 몽고디비 인 액션](https://books.google.co.kr/books?isbn=9788994506395)
   - [ ] [Apache Cassandra](http://cassandra.apache.org/)
 - [ ] Caching
   - [ ] [memcached](https://memcached.org/)
