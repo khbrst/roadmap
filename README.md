@@ -291,16 +291,23 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [ ] [Getting started | Django documentation](https://docs.djangoproject.com/en/stable/intro)
     - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] NoSQL
-  - [ ] [MongoDB](https://www.mongodb.com/)
-    - [ ] [MongoDB Manual](https://docs.mongodb.com/manual)
-      - [ ] [Introduction - MongoDB Manual](https://docs.mongodb.com/manual/introduction)
-      - [ ] [The `mongo` Shell - MongoDB Manual](https://docs.mongodb.com/manual/mongo)
-      - [ ] [MongoDB CRUD Operations - MongoDB Manual](https://docs.mongodb.com/manual/crud)
-    - [x] [📚 MongoDB in Action - 몽고디비 인 액션](https://books.google.co.kr/books?isbn=9788994506395)
-  - [ ] [Apache Cassandra](http://cassandra.apache.org/)
-- [ ] Caching
-  - [ ] [memcached](https://memcached.org/)
-  - [ ] [Redis](https://redis.io/)
+  - [ ] Key-value
+    - [ ] [memcached](https://memcached.org/)
+    - [ ] [Redis](https://redis.io/)
+      - [x] [Try Redis](http://try.redis.io/)
+  - [ ] Document
+    - [ ] [MongoDB](https://www.mongodb.com/)
+      - [x] [📚 MongoDB in Action - 몽고디비 인 액션](https://books.google.co.kr/books?isbn=9788994506395)
+      - [ ] [MongoDB Manual](https://docs.mongodb.com/manual)
+        - [ ] [Introduction - MongoDB Manual](https://docs.mongodb.com/manual/introduction)
+        - [ ] [The `mongo` Shell - MongoDB Manual](https://docs.mongodb.com/manual/mongo)
+        - [ ] [MongoDB CRUD Operations - MongoDB Manual](https://docs.mongodb.com/manual/crud)
+    - [ ] [CouchDB](http://couchdb.apache.org/)
+  - [ ] Column-Family
+    - [ ] [Apache Cassandra](http://cassandra.apache.org/)
+  - [ ] Graph databases
+    - [ ] [Neo4j](https://neo4j.com/)
+- [x] Caching
 - [ ] Creating RESTful APIs
 - [ ] Authentication / Authorization
   - [ ] OAuth
@@ -320,7 +327,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Kubernetes](https://kubernetes.io/)
 - [ ] Web Server
 - [ ] Web Sockets
-- [ ] GraphQL and Graph Databases
+- [ ] [GraphQL](https://graphql.org/)
 - [ ] Profiling
 - [ ] Static Analysis
 - [ ] DDD
