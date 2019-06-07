@@ -355,7 +355,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 
 ## References
 
-- [Web developer roadmap 2018](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
+- [Web developer roadmap](https://github.com/kamranahmedse/developer-roadmap)([번역](https://github.com/devJang/developer-roadmap))
 - Basics
   - [Semantic Versioning](https://semver.org/)
   - [Git](https://git-scm.com/)
