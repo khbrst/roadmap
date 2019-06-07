@@ -47,6 +47,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] Library
   - [ ] HTTP client
     - [ ] [Retrofit](https://square.github.io/retrofit/)
+  - [ ] Event driven
+    - [ ] [libevent](https://libevent.org)
+    - [ ] [Tokio](https://tokio.rs)
   - [x] [Reactive Extensions](https://en.wikipedia.org/wiki/Reactive_extensions) - [ReactiveX](http://reactivex.io/)
     - [x] [Rx와 Functional Reactive Programming으로 고성능 서버 만들기 - Slideshare](https://www.slideshare.net/jongwookkim/ndc14-rx-functional-reactive-programming)
     - [x] [ReactiveX - Intro](http://reactivex.io/intro.html)
