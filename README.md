@@ -312,12 +312,13 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Neo4j](https://neo4j.com/)
 - [x] Caching
 - [x] Creating RESTful APIs
-- [ ] Authentication / Authorization
-  - [ ] OAuth
-  - [ ] Basic Authentication
-  - [ ] Token Authentication
-  - [ ] JWT
-  - [ ] OpenID
+- [ ] [Authentication](https://en.wikipedia.org/wiki/Authentication) / Authorization
+  - [ ] [OAuth](https://oauth.net/)
+  - [ ] [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
+    - [ ] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
+  - [ ] [Token Authentication](https://en.wikipedia.org/wiki/Logical_security#Token_Authentication)
+  - [ ] [JWT](https://jwt.io/)
+  - [ ] [OpenID](https://openid.net/)
 - [ ] Message Brokers
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
   - [ ] [Kafka](https://kafka.apache.org/)
