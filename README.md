@@ -316,6 +316,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] [Authentication](https://en.wikipedia.org/wiki/Authentication) / Authorization
   - [ ] [OAuth](https://oauth.net/)
     - [x] [OAuth 2.0 - 생활코딩](https://opentutorials.org/course/3405)
+    - [ ] [RFC6749 - The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
   - [ ] [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
     - [ ] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
   - [ ] [Token Authentication](https://en.wikipedia.org/wiki/Logical_security#Token_Authentication)
