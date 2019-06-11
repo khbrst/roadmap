@@ -320,8 +320,12 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
   - [x] Token Authentication
     - [x] [What is token based authentication? - Stack Overflow](https://stackoverflow.com/questions/1592534/what-is-token-based-authentication)
-  - [ ] [JWT](https://jwt.io/)
+  - [ ] [JWT](https://jwt.io/) - [RFC 7519](https://tools.ietf.org/html/rfc7519)
   - [ ] [OpenID](https://openid.net/)
+- [ ] Cryptography
+  - [ ] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
+    - [ ] [Why do we need a digital signature? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/48408/why-do-we-need-a-digital-signature)
+  - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [ ] Message Brokers
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
   - [ ] [Kafka](https://kafka.apache.org/)
