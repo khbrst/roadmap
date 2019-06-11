@@ -313,13 +313,13 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Neo4j](https://neo4j.com/)
 - [x] Caching
 - [x] Creating RESTful APIs
-- [ ] [Authentication](https://en.wikipedia.org/wiki/Authentication) / Authorization
-  - [ ] [OAuth](https://oauth.net/)
+- [ ] Authentication / Authorization
+  - [ ] [OAuth](https://oauth.net/) - [RFC 6749](https://tools.ietf.org/html/rfc6749) and [RFC 6750](https://tools.ietf.org/html/rfc6750)
     - [x] [OAuth 2.0 - 생활코딩](https://opentutorials.org/course/3405)
-    - [ ] [RFC6749 - The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
-  - [ ] [Basic access authentication](https://en.wikipedia.org/wiki/Basic_access_authentication)
-    - [ ] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
-  - [ ] [Token Authentication](https://en.wikipedia.org/wiki/Logical_security#Token_Authentication)
+  - [x] [Basic Authentication](https://en.wikipedia.org/wiki/Basic_access_authentication) - [RFC 7617](https://tools.ietf.org/html/rfc7617)
+    - [x] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
+  - [x] Token Authentication
+    - [x] [What is token based authentication? - Stack Overflow](https://stackoverflow.com/questions/1592534/what-is-token-based-authentication)
   - [ ] [JWT](https://jwt.io/)
   - [ ] [OpenID](https://openid.net/)
 - [ ] Message Brokers
