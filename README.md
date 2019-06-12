@@ -320,7 +320,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [HTTP authentication - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
   - [x] Token Authentication
     - [x] [What is token based authentication? - Stack Overflow](https://stackoverflow.com/questions/1592534/what-is-token-based-authentication)
-  - [ ] [JWT](https://jwt.io/) - [RFC 7519](https://tools.ietf.org/html/rfc7519)
+  - [x] [JWT](https://jwt.io/) - [RFC 7519](https://tools.ietf.org/html/rfc7519)
   - [ ] [OpenID](https://openid.net/)
 - [ ] Cryptography
   - [ ] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
