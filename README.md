@@ -324,8 +324,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [x] [OpenID](https://en.wikipedia.org/wiki/OpenID)
   - [ ] [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect)
 - [ ] Cryptography
-  - [ ] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
-    - [ ] [Why do we need a digital signature? - Cryptography Stack Exchange](https://crypto.stackexchange.com/questions/48408/why-do-we-need-a-digital-signature)
+  - [x] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
   - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [ ] Message Brokers
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
