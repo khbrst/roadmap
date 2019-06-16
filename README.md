@@ -85,6 +85,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Google Test](https://github.com/google/googletest)
       - [x] [Googletest Primer document](https://github.com/google/googletest/blob/master/googletest/docs/primer.md)
       - [x] [Google Mock document](https://github.com/google/googletest/blob/master/googlemock/README.md)
+- [ ] [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
+  - [ ] [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+    - [ ] [Extreme Programming Roadmap](http://wiki.c2.com/?ExtremeProgrammingRoadmap)
 - [ ] [Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
   - [x] [Declarative Programming](https://en.wikipedia.org/wiki/Declarative_programming)
     - [ ] [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
@@ -92,7 +95,10 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [x] [Dataflow Programming](https://en.wikipedia.org/wiki/Dataflow_programming)
       - [x] [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
     - [x] [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
-  - [ ] [Hygienic macro - Wikipedia](https://en.wikipedia.org/wiki/Hygienic_macro)
+- [ ] Embedded
+  - [ ] [임베디드 레시피](http://recipes.egloos.com/)
+- [ ] Etc
+  - [ ] [Hygienic macro](https://en.wikipedia.org/wiki/Hygienic_macro)
 
 ## Frontend
 
@@ -362,7 +368,6 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 ## DevOps
 
 - [ ] CI and CD
-  - [ ] [Awsome CI](https://github.com/ligurio/awesome-ci)
   - [ ] [Travis CI](https://travis-ci.com/)
 
 ## References
@@ -379,49 +384,25 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
   - Database
     - [DB-Engines Ranking](https://db-engines.com/en/ranking) and [history](https://db-engines.com/en/ranking_trend)([Method of calculating the scores](https://db-engines.com/en/ranking_definition))
+    - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
   - Web
     - [HotFrameworks](http://hotframeworks.com/)
 - Standards
   - ECMAScript
     - [Standard ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
     - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-- Community
-  - Rust
-    - [한국 러스트 사용자 그룹 - Facebook](https://www.facebook.com/groups/rustlang/)
-- Blog & Article
+- Blog & Community
   - [The Clean Code Blog by Robert C. Martin (Uncle Bob)](https://blog.cleancoder.com/)
   - Rust
-    - Development environment
-      - [Rust development using VS Code on OS X, debugging included.](https://medium.com/@royalstream/rust-development-using-vs-code-on-os-x-debugging-included-bc10c9863777): (VS Code + Rusty Code + Native Debug) + (Rust + Racer + GDB)
-      - [Visual Studio Code를 이용한 Rust 개발환경 꾸며보기 - Rinthel's note](https://rinthel.github.io/2017/08/20/rust-vscode-macos/): (VS Code + Rusty Code(rls) + Native Debug) + (Rust + GDB)
-      - [Debugging Rust programs with lldb on MacOS](https://bryce.fisher-fleig.org/blog/debugging-rust-programs-with-lldb/index.html): Rust + LLDB
-  - Database
-    - [MariaDB vs. MySQL vs. PostgreSQL Comparison](https://db-engines.com/en/system/MariaDB%3BMySQL%3BPostgreSQL)
-  - Web
-    - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
-    - [NAVER D2](https://d2.naver.com/home)
-      - [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/7495331)
-      - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
-      - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
-    - [Crash-only software - Wikipedia](https://en.wikipedia.org/wiki/Crash-only_software)
-    - [The Node.js Way - Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
-    - Web security
-      - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
-      - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
-      - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
-      - [Fork bomb - Wikipedia](https://en.wikipedia.org/wiki/Fork_bomb)
-      - [Path Traversal - OWASP](https://www.owasp.org/index.php/Path_Traversal)
-      - SQL Injection
-        - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
-      - Regular Expression
-        - [Regular expression Denial of Service - ReDoS](https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS)
-        - [Regular Expression Library](http://www.regexlib.com/)
+    - [한국 러스트 사용자 그룹 - Facebook](https://www.facebook.com/groups/rustlang/)
 - Tutorial & Training
   - [Find the Best Programming Courses & Tutorials - Hackr.io](https://hackr.io/)
   - [Exercism](https://exercism.io)
   - [Google Developers Training](https://developers.google.com/training/)
   - Open Source
     - [First Contributions](https://firstcontributions.github.io/)
+  - C Programming Language
+    - [c-faq](http://c-faq.com/)
   - [Rust Programming Language - Official site](https://www.rust-lang.org)
     - [Rust Documentation](https://www.rust-lang.org/en-US/documentation.html)([한글](https://www.rust-lang.org/ko-KR/documentation.html)) and [another documentation index](https://doc.rust-lang.org/)
       - Learn Rust
@@ -442,35 +423,32 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
         - [The Reference](https://doc.rust-lang.org/reference/index.html)
         - [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html)
         - [The Unstable Book](https://doc.rust-lang.org/unstable-book/index.html)
+    - Development environment
+      - [Rust development using VS Code on OS X, debugging included.](https://medium.com/@royalstream/rust-development-using-vs-code-on-os-x-debugging-included-bc10c9863777): (VS Code + Rusty Code + Native Debug) + (Rust + Racer + GDB)
+      - [Visual Studio Code를 이용한 Rust 개발환경 꾸며보기 - Rinthel's note](https://rinthel.github.io/2017/08/20/rust-vscode-macos/): (VS Code + Rusty Code(rls) + Native Debug) + (Rust + GDB)
+      - [Debugging Rust programs with lldb on MacOS](https://bryce.fisher-fleig.org/blog/debugging-rust-programs-with-lldb/index.html): Rust + LLDB
   - Web
     - [Web | Google Developers](https://developers.google.com/web/)
     - [The Front-End Checklist](https://frontendchecklist.io/) - [GitHub](https://github.com/thedaviddias/Front-End-Checklist)([번역](https://github.com/kesuskim/Front-End-Checklist))
-- Tools
-  - Terminal
-    - [Tmux](https://github.com/tmux/tmux)
-      - [.tmux (Oh My Tmux)](https://github.com/gpakosz/.tmux)
-  - Unix Shell
-    - [Zsh](http://www.zsh.org/)  
-      - [Oh My Zsh](https://ohmyz.sh/) - [GitHub](https://github.com/robbyrussell/oh-my-zsh)
-  - Database
-    - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
-    - [SQL Fiddle](http://sqlfiddle.com/)
-  - Web
-    - [Browserslist](https://github.com/browserslist/browserslist)
-    - [Envoy Proxy](https://www.envoyproxy.io/)
-    - Online Editor
-      - [CodeSandbox](https://codesandbox.io/)
-      - [StackBlitz](https://stackblitz.com/)
-    - CDN
-      - [UNPKG](https://unpkg.com/)
-    - Benchmark
-      - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-    - Validation & Lint
-      - [Markup Validation Service - W3C](https://validator.w3.org)
-      - [ESLint](https://eslint.org/)
-      - [CSS Lint](http://csslint.net/)
-    - Automation
-      - [Selenium](https://www.seleniumhq.org/)
+    - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)([번역](https://d2.naver.com/helloworld/59361))
+    - [HTTP Documentation](http://httpwg.org/specs/)
+    - [NAVER D2](https://d2.naver.com/home)
+      - [2018년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/7495331)
+      - [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
+      - [2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
+    - [Crash-only software - Wikipedia](https://en.wikipedia.org/wiki/Crash-only_software)
+    - [The Node.js Way - Understanding Error-First Callbacks](http://fredkschott.com/post/2014/03/understanding-error-first-callbacks-in-node-js/)
+    - Web security
+      - [Web security exploits - Wikipedia](https://en.wikipedia.org/wiki/Category:Web_security_exploits)
+      - [Category:Attack - OWASP](https://www.owasp.org/index.php/Category:Attack)
+      - [Security Cheat Sheet - OWASP](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+      - [Fork bomb - Wikipedia](https://en.wikipedia.org/wiki/Fork_bomb)
+      - [Path Traversal - OWASP](https://www.owasp.org/index.php/Path_Traversal)
+      - SQL Injection
+        - [Testing for NoSQL Injection - OWASP](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+      - Regular Expression
+        - [Regular expression Denial of Service - ReDoS](https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS)
+        - [Regular Expression Library](http://www.regexlib.com/)
 - Projects & Packages
   - Serialization
     - [Protocol Buffers](https://developers.google.com/protocol-buffers/)([GitHub](https://github.com/protocolbuffers/protobuf))
@@ -486,6 +464,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [rc](https://www.npmjs.com/package/rc)
       - [nconf](https://www.npmjs.com/package/nconf)
       - [config](https://www.npmjs.com/package/config)
+      - [Browserslist](https://github.com/browserslist/browserslist)
     - Web frameworks
       - [Node.js frameworks](http://nodeframework.com/)
     - Web security
@@ -546,39 +525,63 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [The Rusty Web](https://davidmcneil.gitbooks.io/the-rusty-web/)(Experimental: [WebAssembly](https://webassembly.org/) and [asm.js](http://asmjs.org/))
   - Lua
     - [LuaRocks](https://luarocks.org/)
-- Products
-  - Development Environment
-    - Declarative provisioning
-      - [Chef](https://www.chef.io/chef/)
-      - [Puppet](https://puppet.com/)
-    - Light-weight virtual environment
-      - [Docker](https://www.docker.com/)
-      - [Vagrant](https://www.vagrantup.com/)
-    - Cloud Services
-      - [AWS: Amazone Web Services](https://aws.amazon.com/)
-      - [GCP: Google Cloud Platform Console](https://console.cloud.google.com/)
-      - [Microsoft Azure](https://azure.microsoft.com/)
-      - [Heroku](https://www.heroku.com/)
-      - [Cloud Foundary](https://www.cloudfoundry.org/)
-      - [PWS: Pivotal Web Services](https://run.pivotal.io/)
-      - [Digital Ocean](https://www.digitalocean.com/)
-      - Database
-        - MongoDB
-          - [Top 10 MongoDB Hosting You Can Try for Free (or Cheap)](https://studio3t.com/whats-new/cheap-free-mongodb-hosting/)
-          - [Atlas](https://cloud.mongodb.com)
-          - [mLab](https://mlab.com/)
-          - [Mongo Clusters](https://www.mongoclusters.com)
+- Tools & Services
+  - Terminal
+    - [Tmux](https://github.com/tmux/tmux)
+      - [.tmux (Oh My Tmux)](https://github.com/gpakosz/.tmux)
+  - Unix Shell
+    - [Zsh](http://www.zsh.org/)  
+      - [Oh My Zsh](https://ohmyz.sh/) - [GitHub](https://github.com/robbyrussell/oh-my-zsh)
+  - Declarative provisioning
+    - [Chef](https://www.chef.io/chef/)
+    - [Puppet](https://puppet.com/)
+  - Light-weight virtual environment
+    - [Docker](https://www.docker.com/)
+    - [Vagrant](https://www.vagrantup.com/)
+  - Cloud Services
+    - [AWS: Amazone Web Services](https://aws.amazon.com/)
+    - [GCP: Google Cloud Platform Console](https://console.cloud.google.com/)
+    - [Microsoft Azure](https://azure.microsoft.com/)
+    - [Heroku](https://www.heroku.com/)
+    - [Cloud Foundary](https://www.cloudfoundry.org/)
+    - [PWS: Pivotal Web Services](https://run.pivotal.io/)
+    - [Digital Ocean](https://www.digitalocean.com/)
+    - [Envoy Proxy](https://www.envoyproxy.io/)
   - Web Server and Web Application Server
     - [Apache HTTPd](https://httpd.apache.org/)
     - [Apache Tomcat](http://tomcat.apache.org/)
     - [Nginx](https://nginx.org/)
+  - Database
+    - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
+    - [SQL Fiddle](http://sqlfiddle.com/)
+    - MongoDB
+      - [Top 10 MongoDB Hosting You Can Try for Free (or Cheap)](https://studio3t.com/whats-new/cheap-free-mongodb-hosting/)
+      - [Atlas](https://cloud.mongodb.com)
+      - [mLab](https://mlab.com/)
+      - [Mongo Clusters](https://www.mongoclusters.com)
+  - CDN
+    - [UNPKG](https://unpkg.com/)
   - Load Balancer & Reverse Proxy
     - [Nginx](https://nginx.org/)
     - [HAProxy](http://www.haproxy.org/)
-  - API Documentation
-    - [Swagger](https://swagger.io/)
-  - API Testing
+  - Documentation
+    - Online Editor
+      - [StackEdit](https://stackedit.io)
+      - [CodeSandbox](https://codesandbox.io/)
+      - [StackBlitz](https://stackblitz.com/)
+    - Inforgraphics
+      - [Inforgram](https://infogram.com)
+    - API
+      - [Swagger](https://swagger.io/)
+  - Testing
     - [Postman](https://www.getpostman.com/)
+    - [Selenium](https://www.seleniumhq.org/)
+  - Validation & Lint
+    - [Markup Validation Service - W3C](https://validator.w3.org)
+    - [ESLint](https://eslint.org/)
+    - [CSS Lint](http://csslint.net/)
+  - Benchmark
+    - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - Code Coverage
     - [Codecov](https://codecov.io/)
   - CI Platform
