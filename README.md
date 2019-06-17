@@ -332,7 +332,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [OpenID Connect](https://en.wikipedia.org/wiki/OpenID_Connect)
 - [ ] Cryptography
   - [x] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
-  - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
+  - [ ] [Elliptic-curve cryptography (ECC)](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
+    - [ ] [Elliptic-curve Diffie–Hellman (ECDH)](https://en.wikipedia.org/wiki/Elliptic-curve_Diffie%E2%80%93Hellman)
+    - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [x] [Message Broker](https://en.wikipedia.org/wiki/Message_broker)
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
   - [ ] [Apache Kafka](https://kafka.apache.org/)
@@ -345,19 +347,20 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Apache HTTPd](https://httpd.apache.org/)
   - [ ] [Apache Tomcat](http://tomcat.apache.org/)
   - [ ] [Nginx](https://nginx.org/)
-- [ ] Web Sockets
+- [ ] [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 - [ ] Profiling
 - [ ] Static Analysis
-- [ ] DDD
-- [ ] SOAP
+- [ ] [DDD: Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
+- [ ] [SOAP](https://en.wikipedia.org/wiki/SOAP)
 - [ ] [Serverless](https://serverless.com/)
 - [ ] [Micro Services](https://en.wikipedia.org/wiki/Microservices)
-  - [ ] [Microservice Architecture](https://microservices.io/patterns/microservices.html)
-  - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
+  - [ ] [Microservices.io](https://microservices.io)
+    - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
+    - [ ] [Architecture patterns](https://microservices.io/patterns/microservices.html)
   - [ ] [Circuit Breaker](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
-    - [ ] [Circuit Breaker - Microservices.io](https://microservices.io/patterns/reliability/circuit-breaker.html)
-    - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
-  - [ ] API Gateway
+    - [ ] [Microservices.io article](https://microservices.io/patterns/reliability/circuit-breaker.html)
+    - [ ] [Martin Fowler article](https://martinfowler.com/bliki/CircuitBreaker.html)
+  - [ ] [API Gateway](https://microservices.io/patterns/apigateway.html)
     - [ ] API Gateway vs Reverse Proxy
     - [ ] Java
       - [ ] Zuul - [GitHub](https://github.com/Netflix/zuul)
