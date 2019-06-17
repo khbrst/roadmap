@@ -218,8 +218,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [pip](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
     - [ ] Version Manager
       - [ ] [Anaconda](https://anaconda.org/)
-      - [ ] [pyenv](https://github.com/pyenv/pyenv)
-      - [ ] [Virtualenv](https://virtualenv.pypa.io/en/stable/)
+      - [x] [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 - [ ] Standards and Best Practices
   - [ ] Node.js: [Practiced here](https://github.com/khbrst/es-practice)
     - [x] [Website security - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security)
@@ -335,7 +334,8 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [ ] [Message Broker](https://en.wikipedia.org/wiki/Message_broker)
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
-  - [ ] [Kafka](https://kafka.apache.org/)
+  - [ ] [Apache Kafka](https://kafka.apache.org/)
+    - [ ] [Official Documentation](https://kafka.apache.org/documentation/)
 - [ ] Search Engine
   - [ ] [Elastic](https://www.elastic.co/)
   - [ ] [Solr](http://lucene.apache.org/solr/)
