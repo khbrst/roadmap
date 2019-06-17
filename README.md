@@ -317,6 +317,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Apache Cassandra](http://cassandra.apache.org/)
   - [ ] Graph databases
     - [ ] [Neo4j](https://neo4j.com/)
+  - [ ] [GraphQL](https://graphql.org/)
 - [x] Caching
 - [x] Creating RESTful APIs
 - [ ] Authentication / Authorization
@@ -340,22 +341,20 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [Elastic](https://www.elastic.co/)
   - [ ] [Solr](http://lucene.apache.org/solr/)
   - [ ] [Sphinx](http://sphinxsearch.com/)
-- [ ] Container
-  - [ ] [Docker](https://www.docker.com/)
-  - [ ] [Kubernetes](https://kubernetes.io/)
-- [ ] Web Server
+- [ ] Web Servers
+  - [ ] [Apache HTTPd](https://httpd.apache.org/)
+  - [ ] [Apache Tomcat](http://tomcat.apache.org/)
+  - [ ] [Nginx](https://nginx.org/)
 - [ ] Web Sockets
-- [ ] [GraphQL](https://graphql.org/)
 - [ ] Profiling
 - [ ] Static Analysis
 - [ ] DDD
 - [ ] SOAP
-- [ ] [serverless](https://serverless.com/)
-- [ ] Micro Services
+- [ ] [Serverless](https://serverless.com/)
+- [ ] [Micro Services](https://en.wikipedia.org/wiki/Microservices)
   - [ ] [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   - [ ] [A pattern language for microservices](https://microservices.io/patterns/index.html)
-  - [ ] Circuit Breaker
-    - [ ] [Circuit breaker design pattern - Wikipedia](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
+  - [ ] [Circuit Breaker](https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern)
     - [ ] [Circuit Breaker - Microservices.io](https://microservices.io/patterns/reliability/circuit-breaker.html)
     - [ ] [CircuitBreaker - Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] API Gateway
@@ -368,7 +367,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 ## DevOps
 
 - [ ] CI and CD
-  - [ ] [Travis CI](https://travis-ci.com/)
+  - [ ] [Jenkins](https://jenkins.io/)
+  - [ ] [Circle CI](https://circleci.com/)
+  - [ ] [Travis CI](https://travis-ci.org/)
 
 ## References
 
@@ -538,19 +539,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - Light-weight virtual environment
     - [Docker](https://www.docker.com/)
     - [Vagrant](https://www.vagrantup.com/)
-  - Cloud Services
-    - [AWS: Amazone Web Services](https://aws.amazon.com/)
-    - [GCP: Google Cloud Platform Console](https://console.cloud.google.com/)
-    - [Microsoft Azure](https://azure.microsoft.com/)
-    - [Heroku](https://www.heroku.com/)
-    - [Cloud Foundary](https://www.cloudfoundry.org/)
-    - [PWS: Pivotal Web Services](https://run.pivotal.io/)
-    - [Digital Ocean](https://www.digitalocean.com/)
-    - [Envoy Proxy](https://www.envoyproxy.io/)
-  - Web Server and Web Application Server
-    - [Apache HTTPd](https://httpd.apache.org/)
-    - [Apache Tomcat](http://tomcat.apache.org/)
-    - [Nginx](https://nginx.org/)
+    - [Kubernetes](https://kubernetes.io/)
   - Database
     - [Online SQL interpreter](https://kripken.github.io/sql.js/GUI/)
     - [SQL Fiddle](http://sqlfiddle.com/)
@@ -559,6 +548,17 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [Atlas](https://cloud.mongodb.com)
       - [mLab](https://mlab.com/)
       - [Mongo Clusters](https://www.mongoclusters.com)
+  - Cloud computing
+    - [AWS: Amazone Web Services](https://aws.amazon.com/)
+    - [GCP: Google Cloud Platform Console](https://console.cloud.google.com/)
+    - [Microsoft Azure](https://azure.microsoft.com/)
+    - [Heroku](https://www.heroku.com/)
+    - [Cloud Foundary](https://www.cloudfoundry.org/)
+    - [PWS: Pivotal Web Services](https://run.pivotal.io/)
+    - [Digital Ocean](https://www.digitalocean.com/)
+    - [Envoy Proxy](https://www.envoyproxy.io/)
+  - Distributed computing
+    - [Apache ZooKeeper](https://zookeeper.apache.org/)
   - CDN
     - [UNPKG](https://unpkg.com/)
   - Load Balancer & Reverse Proxy
@@ -584,7 +584,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
   - Code Coverage
     - [Codecov](https://codecov.io/)
-  - CI Platform
+  - CI
     - [Jenkins](https://jenkins.io/)
     - [Circle CI](https://circleci.com/)
     - [Travis CI](https://travis-ci.org/)
