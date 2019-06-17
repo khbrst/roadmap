@@ -333,7 +333,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
 - [ ] Cryptography
   - [x] [Digital signature](https://en.wikipedia.org/wiki/Digital_signature)
   - [ ] [Elliptic Curve Digital Signature Algorithm (ECDSA)](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
-- [ ] [Message Broker](https://en.wikipedia.org/wiki/Message_broker)
+- [x] [Message Broker](https://en.wikipedia.org/wiki/Message_broker)
   - [ ] [RabbitMQ](https://www.rabbitmq.com/)
   - [ ] [Apache Kafka](https://kafka.apache.org/)
     - [ ] [Official Documentation](https://kafka.apache.org/documentation/)
