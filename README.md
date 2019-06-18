@@ -96,7 +96,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
       - [x] [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming)
     - [x] [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming)
 - [ ] Embedded
-  - [ ] [임베디드 레시피](http://recipes.egloos.com/)
+  - [ ] [Embedded Recipes](http://recipes.egloos.com/)
 - [ ] Etc
   - [ ] [Hygienic macro](https://en.wikipedia.org/wiki/Hygienic_macro)
 
@@ -361,11 +361,9 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Microservices.io article](https://microservices.io/patterns/reliability/circuit-breaker.html)
     - [ ] [Martin Fowler article](https://martinfowler.com/bliki/CircuitBreaker.html)
   - [ ] [API Gateway](https://microservices.io/patterns/apigateway.html)
-    - [ ] API Gateway vs Reverse Proxy
-    - [ ] Java
-      - [ ] Zuul - [GitHub](https://github.com/Netflix/zuul)
-        - [ ] [GitHub Wiki](https://github.com/Netflix/zuul/wiki)
-        - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
+    - [ ] [Zuul](https://github.com/Netflix/zuul/wiki) - [GitHub](https://github.com/Netflix/zuul)
+      - [x] [배민 API GATEWAY - spring cloud zuul 적용기 - 우아한형제들 기술 블로그](http://woowabros.github.io/r&d/2017/06/13/apigateway.html)
+    - [x] [API Gateway vs Reverse Proxy - Stack Overflow](https://stackoverflow.com/questions/35756663/api-gateway-vs-reverse-proxy)
 
 ## DevOps
 
