@@ -54,7 +54,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
     - [ ] [Tokio](https://tokio.rs/) - [GitHub](https://github.com/tokio-rs/tokio)
       - [ ] [Official Documentation](https://tokio.rs/docs/overview/)
         - [x] [Getting started](https://tokio.rs/docs/getting-started/hello-world/)
-        - [ ] [Working with futures](https://tokio.rs/docs/futures/overview/)
+        - [x] [Working with futures](https://tokio.rs/docs/futures/overview/)
         - [ ] [I/O with Tokio](https://tokio.rs/docs/io/overview/)
         - [ ] [Going deeper](https://tokio.rs/docs/going-deeper/overview/)
         - [ ] [Tokio internals](https://tokio.rs/docs/internals/intro)
