@@ -52,6 +52,13 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] Event driven
     - [ ] [libevent](https://libevent.org)
     - [ ] [Tokio](https://tokio.rs/) - [GitHub](https://github.com/tokio-rs/tokio)
+      - [ ] [Official Documentation](https://tokio.rs/docs/overview/)
+        - [x] [Getting started](https://tokio.rs/docs/getting-started/hello-world/)
+        - [ ] [Working with futures](https://tokio.rs/docs/futures/overview/)
+        - [ ] [I/O with Tokio](https://tokio.rs/docs/io/overview/)
+        - [ ] [Going deeper](https://tokio.rs/docs/going-deeper/overview/)
+        - [ ] [Tokio internals](https://tokio.rs/docs/internals/intro)
+        - [ ] [API documentation](https://docs.rs/tokio)
   - [x] [Reactive Extensions](https://en.wikipedia.org/wiki/Reactive_extensions) - [ReactiveX](http://reactivex.io/)
     - [x] [Rx와 Functional Reactive Programming으로 고성능 서버 만들기 - Slideshare](https://www.slideshare.net/jongwookkim/ndc14-rx-functional-reactive-programming)
     - [x] [ReactiveX - Intro](http://reactivex.io/intro.html)
