@@ -55,6 +55,7 @@ Roadmap to developer. Inspired by the [Web developer roadmap](https://github.com
   - [ ] [hyper](https://hyper.rs/) - [GitHub](https://github.com/hyperium/hyper)
 - [ ] Event driven
   - [ ] [libevent](https://libevent.org)
+    - [ ] [Programming with Libevent](http://www.wangafu.net/~nickm/libevent-book/)
   - [ ] [Tokio](https://tokio.rs/) - [GitHub](https://github.com/tokio-rs/tokio)
     - [x] [Official Documentation](https://tokio.rs/docs/overview/)
     - [ ] [API documentation](https://docs.rs/tokio)
